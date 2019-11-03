@@ -1532,7 +1532,7 @@ Log.d("Harrix", "Matrix has you...");
 Код Java файла активности без строчки package:
 
 ```java
-import android.support.v7.app.AppCompatActivity;
+import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
 import android.util.Log;
 import android.view.View;
