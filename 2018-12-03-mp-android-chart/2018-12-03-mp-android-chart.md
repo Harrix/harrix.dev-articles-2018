@@ -41,7 +41,7 @@ tags: [Android Studio, Java, Графики, Chart, Plot]
 Файл `MainActivity.java` (без строки `package`):
 
 ```java
-import android.support.v7.app.AppCompatActivity;
+import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
@@ -331,7 +331,7 @@ chart.animateY(500);
 package io.harrix.examplempandroidchart;
 
 import android.graphics.Color;
-import android.support.v7.app.AppCompatActivity;
+import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
