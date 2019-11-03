@@ -15,7 +15,7 @@ tags: [Android Studio, Java, Графики, Chart, Plot]
 
 Пример приложения: <https://github.com/PhilJay/MPAndroidChart/tree/master/MPChartExample>.
 
-# Создание болванки
+## Создание болванки
 
 Создадим для примера пустое приложение в Android Studio с LinearLayout и кнопкой, для которой подготовим слушателя клика.
 
