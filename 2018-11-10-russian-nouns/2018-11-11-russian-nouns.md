@@ -1,6 +1,6 @@
 ---
 categories: [it, programming]
-tags: [russian, python]
+tags: [Russian, Python]
 download: https://github.com/Harrix/Russian-Nouns/releases/download/v2.0/russian_nouns_v2.0.zip
 ---
 

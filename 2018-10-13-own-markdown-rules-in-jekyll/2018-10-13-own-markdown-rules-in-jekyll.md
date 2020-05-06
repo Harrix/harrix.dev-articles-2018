@@ -1,6 +1,6 @@
 ---
 categories: [it, web]
-tags: [jekyll, markdown]
+tags: [Jekyll, Markdown]
 ---
 
 # Как добавить свои правила обработки Markdown в Jekyll
