@@ -1,6 +1,6 @@
 ---
 categories: [it, os]
-tags: [windows]
+tags: [Windows]
 ---
 
 # Как сделать видимыми расширения файлов в Windows
