@@ -189,7 +189,7 @@ _build
 _build/%{JS: Util.asciify("build-%{CurrentProject:Name}-%{CurrentKit:FileSystemName}-%{CurrentBuild:Name}")}
 ```
 
-И да. Для тех, кто использует git. В файле `.gitignore` я добавляю следующую строчку:
+И да. Для тех, кто использует Git. В файле `.gitignore` я добавляю следующую строчку:
 
 ```text
 *_build*
