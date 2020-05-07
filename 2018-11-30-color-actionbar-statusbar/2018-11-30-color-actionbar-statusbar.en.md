@@ -1,6 +1,6 @@
 ---
 categories: [it, programming]
-tags: [Android Studio, Java]
+tags: [Android Studio, Android, Java]
 ---
 
 # Change the color of ActionBar and StatusBar in the Android app

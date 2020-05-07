@@ -1,6 +1,6 @@
 ---
 categories: [it, programming]
-tags: [Android Studio, Java]
+tags: [Android Studio, Android, Java]
 ---
 
 # Изменение цвета строки состояния и StatusBar в Android приложении
