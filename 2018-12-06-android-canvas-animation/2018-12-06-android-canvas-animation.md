@@ -1,6 +1,6 @@
 ---
 categories: [it, programming]
-tags: [Android Studio, Java, Анимация]
+tags: [Android Studio, Android, Java, Анимация]
 ---
 
 # Анимация на канве в Android
