@@ -1,6 +1,6 @@
 ---
 categories: [it, programming]
-tags: [Android Studio, Java, Графики, Chart, Plot]
+tags: [Android Studio, Android, Java, Графики, Chart, Plot]
 ---
 
 # Графики MPAndroidChart в Android Studio
