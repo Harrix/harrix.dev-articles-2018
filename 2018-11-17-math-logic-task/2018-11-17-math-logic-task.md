@@ -1,5 +1,5 @@
 ---
-categories: [science]
+categories: [it, science]
 tags: [ЕГЭ]
 ---
 
