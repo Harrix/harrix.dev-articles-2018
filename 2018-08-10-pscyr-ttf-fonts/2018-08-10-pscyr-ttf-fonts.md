@@ -9,7 +9,7 @@ download: files/pscyr-ttf-fonts.zip
 
 В заметке приведен архив шрифтов из пакета PSCyr в формате `.*ttf`, который понимает Windows.
 
-Пакет [PSCyr](/blog/2018/pscyr/) — решение для нормального отображения русских букв в LaTex. Всё работает, всё хорошо. Но мне понабились шрифты из пакета установить на Windows (чтобы в Illustrator редактировать PDF файлы, скомпилированные в LaTeX с помощью PSCyr), а в пакете шрифты есть в нескольких вариантах, но ни один из них Windows не переваривает.
+Пакет [PSCyr](https://github.com/Harrix/harrix.dev-blog-2018/blob/main/2018-08-03-pscyr/2018-08-03-pscyr.md) — решение для нормального отображения русских букв в LaTex. Всё работает, всё хорошо. Но мне понабились шрифты из пакета установить на Windows (чтобы в Illustrator редактировать PDF файлы, скомпилированные в LaTeX с помощью PSCyr), а в пакете шрифты есть в нескольких вариантах, но ни один из них Windows не переваривает.
 
 Сконвертировал файлы `*.pfb` в \*.ttf` помощью <https://onlinefontconverter.com/>. В архиве есть файлы следующих шрифтов:
 
@@ -58,4 +58,4 @@ download: files/pscyr-ttf-fonts.zip
 - TimesNewRomanPSMT Italic
 - TimesNewRomanPSMT Regular
 
-Шрифты можно установить как обычные Windows шрифты, а также можно установить в папку шрифтов Adobe (если какие-то шрифты не видятся). Это папка `C:\Program Files\Common Files\Adobe\Fonts` на Windows 10 для Adobe Illustrator CC 2018. При этом папку `Fonts` в папке `C:\Program Files\Common Files\Adobe` пришлось создавать самому. Если же какие-то шрифты не будут видеться, то можно поступить так. Установить [PSCyr](/blog/2018/pscyr/) для MiKTeX. А после этого скопировать всё содержимое папки `C:\Program Files\MiKTeX 2.9\fonts` в папку `C:\Program Files\Common Files\Adobe\Fonts`.
+Шрифты можно установить как обычные Windows шрифты, а также можно установить в папку шрифтов Adobe (если какие-то шрифты не видятся). Это папка `C:\Program Files\Common Files\Adobe\Fonts` на Windows 10 для Adobe Illustrator CC 2018. При этом папку `Fonts` в папке `C:\Program Files\Common Files\Adobe` пришлось создавать самому. Если же какие-то шрифты не будут видеться, то можно поступить так. Установить [PSCyr](https://github.com/Harrix/harrix.dev-blog-2018/blob/main/2018-08-03-pscyr/2018-08-03-pscyr.md) для MiKTeX. А после этого скопировать всё содержимое папки `C:\Program Files\MiKTeX 2.9\fonts` в папку `C:\Program Files\Common Files\Adobe\Fonts`.

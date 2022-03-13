@@ -11,29 +11,27 @@ tags: [Android Studio, IntelliJ IDEA, Android, Java]
 
 Как установить программы, как написать первое приложение — на эти вопросы отвечают нижеприведенные статьи.
 
-- [Установка JDK в Windows](/blog/2019/install-jdk-on-windows/) — вначале нужно установить JDK, без которого никуда в Java разработке.
+- [Установка JDK в Windows](https://github.com/Harrix/harrix.dev-blog-2019/blob/main/2019-07-07-install-jdk-on-windows/2019-07-07-install-jdk-on-windows.md) — вначале нужно установить JDK, без которого никуда в Java разработке.
 
-- [Установка IntelliJ IDEA в Windows](/blog/2019/install-intellij-idea/) — для написания консольных приложений сейчас чаще всего используется IntelliJ IDEA.
+- [Установка IntelliJ IDEA в Windows](https://github.com/Harrix/harrix.dev-blog-2019/blob/main/2019-07-14-install-intellij-idea/2019-07-14-install-intellij-idea.md) — для написания консольных приложений сейчас чаще всего используется IntelliJ IDEA.
 
-- [Сложение двух чисел в IntelliJ IDEA на Java (консольное приложение)](/blog/2019/add-2-num-intellij-idea/) — первое приложение на IntelliJ IDEA.
+- [Сложение двух чисел в IntelliJ IDEA на Java (консольное приложение)](https://github.com/Harrix/harrix.dev-blog-2019/blob/main/2019-07-15-add-2-num-intellij-idea/2019-07-15-add-2-num-intellij-idea.md) — первое приложение на IntelliJ IDEA.
 
-- [Установка Android Studio в Windows](/blog/2019/install-android-studio/) — для написания приложений под Android на Java потребуется Android Studio от Google.
+- [Установка Android Studio в Windows](https://github.com/Harrix/harrix.dev-blog-2019/blob/main/2019-07-16-install-android-studio/2019-07-16-install-android-studio.md) — для написания приложений под Android на Java потребуется Android Studio от Google.
 
-- [Сложение двух чисел в Android Studio на Java (Android приложение)](/blog/2019/add-2-num-android/) — первое приложение под Android.
+- [Сложение двух чисел в Android Studio на Java (Android приложение)](https://github.com/Harrix/harrix.dev-blog-2019/blob/main/2019-07-14-install-intellij-idea/2019-07-14-install-intellij-idea.md) — первое приложение под Android.
 
 Если родной эмулятор от Android Studio не запускается или тормозит так, что работать нельзя, то можно попробовать сторонние эмуляторы, благо их много.
 
-- [Genymotion](/blog/2018/genymotion-for-android-studio/) — по работе похож на родной эмулятор Android Studio. Можно устанавливать образы разных версий Android.
+- [Genymotion](https://github.com/Harrix/harrix.dev-blog-2018/blob/main/2018-08-16-genymotion-for-android-studio/2018-08-16-genymotion-for-android-studio.md) — по работе похож на родной эмулятор Android Studio. Можно устанавливать образы разных версий Android.
 
-- [Koplayer](/blog/2018/koplayer-for-android-studio/) — говорят, что он нетребователен к оперативной памяти и работает даже при 2 Гб оперативки.
+- [BlueStacks](https://github.com/Harrix/harrix.dev-blog-2018/blob/main/2018-08-16-bluestacks-for-android-studio/2018-08-16-bluestacks-for-android-studio.md) — известный эмулятор, предназначенный в первую очередь для запуска игр Android на ПК, но его можно использовать и для Android Studio.
 
-- [BlueStacks](/blog/2018/bluestacks-for-android-studio/) — известный эмулятор, предназначенный в первую очередь для запуска игр Android на ПК, но его можно использовать и для Android Studio.
-
-- [Nox](/blog/2018/nox-for-android-studio/) — еще один популярный эмулятор от китайцев, которым лично много пользовался.
+- [Nox](https://github.com/Harrix/harrix.dev-blog-2018/blob/main/2018-08-16-nox-for-android-studio/2018-08-16-nox-for-android-studio.md) — еще один популярный эмулятор от китайцев, которым лично много пользовался.
 
 Дополнительные статьи:
 
-- [Анимация на канве в Android](/blog/2018/android-canvas-animation/) — анимация на канве.
+- [Анимация на канве в Android](https://github.com/Harrix/harrix.dev-blog-2018/blob/main/2018-12-06-android-canvas-animation/2018-12-06-android-canvas-animation.md) — анимация на канве.
 
 ## Структура программы
 
@@ -1496,7 +1494,7 @@ void sum(Fraction x) {
 
 ## Примеры вывода текста в Android приложении
 
-В [статье](/blog/2019/add-2-num-android/) показано на примере сложения двух чисел как выводить в `TextView` текст.
+В [статье](https://github.com/Harrix/harrix.dev-blog-2019/blob/main/2019-07-23-add-2-num-android/2019-07-23-add-2-num-android.md) показано на примере сложения двух чисел как выводить в `TextView` текст.
 
 Покажем, как можно выводить текст в приложении в виде тоста `Toast`:
 
@@ -1636,4 +1634,4 @@ paint.setStrokeWidth(20);
 canvas.drawCircle(300, 300, 200, paint);
 ```
 
-Про анимацию на канве можно прочитать тут: [Анимация на канве в Android](/blog/2018/android-canvas-animation/).
+Про анимацию на канве можно прочитать тут: [Анимация на канве в Android](https://github.com/Harrix/harrix.dev-blog-2018/blob/main/2018-12-06-android-canvas-animation/2018-12-06-android-canvas-animation.md).

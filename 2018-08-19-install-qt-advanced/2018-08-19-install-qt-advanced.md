@@ -9,13 +9,13 @@ update: 2021-08-12
 
 Инструкция по установке Qt с компилятором Visual Studio, MinGW и возможностью программировать под Android на примере Windows 10.
 
-Если вы хотите установить Qt просто, чтобы программировать на C++ под Windows с стандартным компилятором, то вам подойдет упрощенная установка, описанная тут: [Установка Qt](/blog/2018/install-qt-mingw/).
+Если вы хотите установить Qt просто, чтобы программировать на C++ под Windows с стандартным компилятором, то вам подойдет упрощенная установка, описанная тут: [Установка Qt](https://github.com/Harrix/harrix.dev-blog-2018/blob/main/2018-08-19-install-qt-mingw/2018-08-19-install-qt-mingw.md).
 
-Если вы хотите установить Qt под Windows XP, то данная статья вам не подойдет, так что вам сюда: [Установка Qt 4.8.4 на Windows XP](/blog/2014/install-qt-on-windows-xp/).
+Если вы хотите установить Qt под Windows XP, то данная статья вам не подойдет, так что вам сюда: [Установка Qt 4.8.4 на Windows XP](https://github.com/Harrix/harrix.dev-blog-2014/blob/main/2014-02-02-install-qt-on-windows-xp/2014-02-02-install-qt-on-windows-xp.md).
 
 ## Подготовка для работы с компилятором Visual Studio
 
-Если вы хотите использовать компилятор под Visual Studio, то вам нужно установить **Visual Studio**. В статье [Установка Visual Studio 2019 Community](/blog/2021/install-visual-studio-2019/) рассказывается, как это сделать.
+Если вы хотите использовать компилятор под Visual Studio, то вам нужно установить **Visual Studio**. В статье [Установка Visual Studio 2019 Community](https://github.com/Harrix/harrix.dev-blog-2021/blob/main/2021-08-09-install-visual-studio-2019/2021-08-09-install-visual-studio-2019.md) рассказывается, как это сделать.
 
 Решите до установки Qt, какой язык интерфейса будет у Visual Studio. От этого зависит язык сообщений об ошибках, которые будут приходит при компилировании проектов в Qt.
 
@@ -29,9 +29,9 @@ UWP приложения в Qt больше [не поддерживаются](
 
 ## Подготовка для программирования под Android
 
-Если вы хотите писать приложения под Android, то вам нужно установить **JDK**. Об этом можно узнать из статьи [Установка Open JDK в Windows](/blog/2021/install-open-jdk-on-windows/). Обратите внимание, что на август 2021 рекомендую устанавливать Java 8, хотя уже вышла Java 16, так как Qt с ними еще [не умеет нормально работать](https://doc.qt.io/qt-6/android-getting-started.html): «Note: JDK 11 or earlier must be used when using Qt for Android». Да, тут написано про 11 версию, а я советую 8. Почему? А у меня с JDK 11 Qt отказался работать в 2021-08.
+Если вы хотите писать приложения под Android, то вам нужно установить **JDK**. Об этом можно узнать из статьи [Установка Open JDK в Windows](https://github.com/Harrix/harrix.dev-blog-2021/blob/main/2021-08-09-install-open-jdk-on-windows/2021-08-09-install-open-jdk-on-windows.md). Обратите внимание, что на август 2021 рекомендую устанавливать Java 8, хотя уже вышла Java 16, так как Qt с ними еще [не умеет нормально работать](https://doc.qt.io/qt-6/android-getting-started.html): «Note: JDK 11 or earlier must be used when using Qt for Android». Да, тут написано про 11 версию, а я советую 8. Почему? А у меня с JDK 11 Qt отказался работать в 2021-08.
 
-Также вам будет нужен **Android SDK** и **Android NDK**. Статья об установке: [Установка Android Studio в Windows](/blog/2018/install-android-studio/). Особое внимание уделите на установку пакетов SDK из статьи.
+Также вам будет нужен **Android SDK** и **Android NDK**. Статья об установке: [Установка Android Studio в Windows](https://github.com/Harrix/harrix.dev-blog-2019/blob/main/2019-07-16-install-android-studio/2019-07-16-install-android-studio.md). Особое внимание уделите на установку пакетов SDK из статьи.
 
 На [этой же странице](https://doc.qt.io/qt-6/android-getting-started.html) можете посмотреть на версии SDK и NDK, которые требуются для Qt.
 
@@ -184,7 +184,7 @@ _build/%{JS: Util.asciify("build-%{Project:Name}-%{Kit:FileSystemName}-%{BuildCo
 
 ## Настройка для работы с компилятором Visual Studio
 
-Если у вас Visual Studio с русским интерфейсом, то в сообщениях об ошибках при компилировании в Qt вы будете видеть крякозябры. В статье [Крякозябры в Qt под Visual Studio](/blog/2016/fix-qt-under-visual-studio/) рассказывается как от них избавиться.
+Если у вас Visual Studio с русским интерфейсом, то в сообщениях об ошибках при компилировании в Qt вы будете видеть крякозябры. В статье [Крякозябры в Qt под Visual Studio](https://github.com/Harrix/harrix.dev-blog-2016/blob/main/2016-07-31-fix-qt-under-visual-studio/2016-07-31-fix-qt-under-visual-studio.md) рассказывается как от них избавиться.
 
 Можно поменять язык интерфейса Visual Studio на английский, но лучше это сделать до установки Qt, как говорилось выше. Но если вы все-таки это сделали после установки Qt, и новые проекты хорошо компилируются под компилятором Visual Studio, то со старыми проектами могут возникнуть проблемы:
 
@@ -246,11 +246,11 @@ Project ERROR: msvc-version.conf loaded but QMAKE_MSC_VER isn't set
 
 ![Отсутствие красных предупреждений](img/config_10.png)
 
-Если у вас проблемы с эмулятором, то помните, что в конце статьи [Установка Android Studio в Windows](/blog/2019/install-android-studio/) есть описание того, как создать виртуальные устройства в стандартном эмуляторе, а также рассмотрены несколько других сторонних эмуляторов.
+Если у вас проблемы с эмулятором, то помните, что в конце статьи [Установка Android Studio в Windows](https://github.com/Harrix/harrix.dev-blog-2019/blob/main/2019-07-16-install-android-studio/2019-07-16-install-android-studio.md) есть описание того, как создать виртуальные устройства в стандартном эмуляторе, а также рассмотрены несколько других сторонних эмуляторов.
 
 ## Пример программы
 
-В статье [Базовое приложение в Qt Widgets](/blog/2014/basic-app-qt-widgets/) рассказано как создать стандартное Windows приложение со стандартными контролами. Теперь же попробуем создать шаблонное приложение на основе Qt Quick, где логика пишется на C++, а интерфейс на QML:
+В статье [Базовое приложение в Qt Widgets](https://github.com/Harrix/harrix.dev-blog-2014/blob/main/2014-01-28-basic-app-qt-widgets/2014-01-28-basic-app-qt-widgets.md) рассказано как создать стандартное Windows приложение со стандартными контролами. Теперь же попробуем создать шаблонное приложение на основе Qt Quick, где логика пишется на C++, а интерфейс на QML:
 
 ![Создание нового проекта](img/test_01.png)
 

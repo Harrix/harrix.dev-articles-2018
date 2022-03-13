@@ -9,26 +9,24 @@ tags: [Установка, Android Studio, Eclipse, IntelliJ IDEA, JetBrains, An
 
 Как установить программы, как написать первое приложение — на эти вопросы отвечают нижеприведенные статьи.
 
-- [Установка JDK в Windows](/blog/2019/install-jdk-on-windows/) — вначале нужно установить JDK, без которого никуда в Java разработке.
+- [Установка JDK в Windows](https://github.com/Harrix/harrix.dev-blog-2019/blob/main/2019-07-07-install-jdk-on-windows/2019-07-07-install-jdk-on-windows.md) — вначале нужно установить JDK, без которого никуда в Java разработке.
 
-- [Установка IntelliJ IDEA в Windows](/blog/2019/install-intellij-idea/) — для написания консольных приложений сейчас чаще всего используется IntelliJ IDEA.
+- [Установка IntelliJ IDEA в Windows](https://github.com/Harrix/harrix.dev-blog-2019/blob/main/2019-07-14-install-intellij-idea/2019-07-14-install-intellij-idea.md) — для написания консольных приложений сейчас чаще всего используется IntelliJ IDEA.
 
-- [Сложение двух чисел в IntelliJ IDEA на Java (консольное приложение)](/blog/2019/add-2-num-intellij-idea/) — первое приложение на IntelliJ IDEA.
+- [Сложение двух чисел в IntelliJ IDEA на Java (консольное приложение)](https://github.com/Harrix/harrix.dev-blog-2019/blob/main/2019-07-15-add-2-num-intellij-idea/2019-07-15-add-2-num-intellij-idea.md) — первое приложение на IntelliJ IDEA.
 
-- [Установка Eclipse в Windows](/blog/2014/install-eclipse-java/) — раньше на Java в основном писали на Eclipse. Сейчас это также можно делать, если хочется.
+- [Установка Eclipse в Windows](https://github.com/Harrix/harrix.dev-blog-2014/blob/main/2014-12-22-install-eclipse-java/2014-12-22-install-eclipse-java.md) — раньше на Java в основном писали на Eclipse. Сейчас это также можно делать, если хочется.
 
-- [Сложение двух чисел в Eclipse на Java (консольное приложение)](/blog/2015/add-2-num-eclipse-java/) — первое приложение на Eclipse.
+- [Сложение двух чисел в Eclipse на Java (консольное приложение)](https://github.com/Harrix/harrix.dev-blog-2015/blob/main/2015-02-08-add-2-num-eclipse-java/2015-02-08-add-2-num-eclipse-java.md) — первое приложение на Eclipse.
 
-- [Установка Android Studio в Windows](/blog/2019/install-android-studio/) — для написания приложений под Android на Java потребуется Android Studio от Google.
+- [Установка Android Studio в Windows](https://github.com/Harrix/harrix.dev-blog-2019/blob/main/2019-07-16-install-android-studio/2019-07-16-install-android-studio.md) — для написания приложений под Android на Java потребуется Android Studio от Google.
 
-- [Сложение двух чисел в Android Studio на Java (Android приложение)](/blog/2019/add-2-num-android/) — первое приложение под Android.
+- [Сложение двух чисел в Android Studio на Java (Android приложение)](https://github.com/Harrix/harrix.dev-blog-2019/blob/main/2019-07-23-add-2-num-android/2019-07-23-add-2-num-android.md) — первое приложение под Android.
 
 Если родной эмулятор от Android Studio не запускается или тормозит так, что работать нельзя, то можно попробовать сторонние эмуляторы, благо их много.
 
-- [Genymotion](/blog/2018/genymotion-for-android-studio/) — по работе похож на родной эмулятор Android Studio. Можно устанавливать образы разных версий Android.
+- [Genymotion](https://github.com/Harrix/harrix.dev-blog-2018/blob/main/2018-08-16-genymotion-for-android-studio/2018-08-16-genymotion-for-android-studio.md) — по работе похож на родной эмулятор Android Studio. Можно устанавливать образы разных версий Android.
 
-- [Koplayer](/blog/2018/koplayer-for-android-studio/) — говорят, что он нетребователен к оперативной памяти и работает даже при 2 Гб оперативки.
+- [BlueStacks](https://github.com/Harrix/harrix.dev-blog-2018/blob/main/2018-08-16-bluestacks-for-android-studio/2018-08-16-bluestacks-for-android-studio.md) — известный эмулятор, предназначенный в первую очередь для запуска игр Android на ПК, но его можно использовать и для Android Studio.
 
-- [BlueStacks](/blog/2018/bluestacks-for-android-studio/) — известный эмулятор, предназначенный в первую очередь для запуска игр Android на ПК, но его можно использовать и для Android Studio.
-
-- [Nox](/blog/2018/nox-for-android-studio/) — еще один популярный эмулятор от китайцев, которым лично много пользовался.
+- [Nox](https://github.com/Harrix/harrix.dev-blog-2018/blob/main/2018-08-16-nox-for-android-studio/2018-08-16-nox-for-android-studio.md) — еще один популярный эмулятор от китайцев, которым лично много пользовался.
