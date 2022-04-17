@@ -14,7 +14,7 @@ latex: true
 
 Статья полезна тем, кто у себя получает ошибку вида: `` File `pscyr.sty' not found ``.
 
-На всякий случай [ссылка](https://github.com/Harrix/harrix.dev-blog-2018/blob/main/2018-08-03-install-latex/2018-08-03-install-latex.md) на статью «Установка и настройка программ для редактирования LaTeX файлов».
+На всякий случай [ссылка](https://github.com/Harrix/harrix.dev-blog-2018/blob/main/install-latex/install-latex.md) на статью «Установка и настройка программ для редактирования LaTeX файлов».
 
 ## Пакеты
 
