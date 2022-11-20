@@ -3,7 +3,7 @@ date: 2018-08-10
 categories: [it, tex]
 tags: [LaTeX, Установка]
 latex: true
-download: files/pscyr-ttf-fonts.zip
+download: https://github.com/Harrix/harrix.dev-blog-2018/raw/main/pscyr-ttf-fonts/files/pscyr-ttf-fonts.zip
 ---
 
 # Шрифты PSCyr в варианте TTF

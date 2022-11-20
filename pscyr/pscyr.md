@@ -2,7 +2,7 @@
 date: 2018-08-03
 categories: [it, tex]
 tags: [LaTeX, Установка]
-download: files/PSCyr.zip
+download: https://github.com/Harrix/harrix.dev-blog-2018/raw/main/pscyr/files/PSCyr.zip
 latex: true
 ---
 
