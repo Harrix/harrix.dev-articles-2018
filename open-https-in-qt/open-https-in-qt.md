@@ -2,7 +2,7 @@
 date: 2018-10-27
 categories: [it, programming]
 tags: [Qt, SSL, HTTPS]
-source: files/test-opensll.zip
+download: https://github.com/Harrix/harrix.dev-blog-2018/raw/main/open-https-in-qt/files/test-opensll.zip
 update: 2019-07-26
 ---
 
