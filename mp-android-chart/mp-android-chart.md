@@ -2,6 +2,8 @@
 date: 2018-12-03
 categories: [it, programming]
 tags: [Android Studio, Android, Java, Графики, Chart, Plot]
+author: Anton Sergienko
+author-email: anton.b.sergienko@gmail.com
 ---
 
 # Графики MPAndroidChart в Android Studio

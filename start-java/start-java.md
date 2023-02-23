@@ -2,6 +2,8 @@
 date: 2018-08-19
 categories: [it, program]
 tags: [Установка, Android Studio, Eclipse, IntelliJ IDEA, JetBrains, Android, Java]
+author: Anton Sergienko
+author-email: anton.b.sergienko@gmail.com
 ---
 
 # Установка программ для программирования на Java

@@ -4,6 +4,8 @@ categories: [it, tex]
 tags: [LaTeX, Установка]
 latex: true
 download: https://github.com/Harrix/harrix.dev-blog-2018/raw/main/pscyr-ttf-fonts/files/pscyr-ttf-fonts.zip
+author: Anton Sergienko
+author-email: anton.b.sergienko@gmail.com
 ---
 
 # Шрифты PSCyr в варианте TTF

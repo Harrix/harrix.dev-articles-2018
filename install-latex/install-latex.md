@@ -4,6 +4,8 @@ categories: [it, tex]
 tags: [LaTeX, Установка]
 latex: true
 update: 2021-07-24
+author: Anton Sergienko
+author-email: anton.b.sergienko@gmail.com
 ---
 
 # Установка и настройка программ для редактирования LaTeX файлов

@@ -4,6 +4,8 @@ categories: [it, program]
 tags: [Установка, Android Studio, Android, Виртуализация, Эмулятор]
 related-id: android-emulator
 update: 2021-08-08
+author: Anton Sergienko
+author-email: anton.b.sergienko@gmail.com
 ---
 
 # Эмулятор Nox для Android Studio

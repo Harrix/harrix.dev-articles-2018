@@ -4,6 +4,8 @@ categories: [it, tex]
 tags: [LaTeX, Установка]
 download: https://github.com/Harrix/harrix.dev-blog-2018/raw/main/pscyr/files/PSCyr.zip
 latex: true
+author: Anton Sergienko
+author-email: anton.b.sergienko@gmail.com
 ---
 
 # Установка PSCyr для LaTeX

@@ -4,6 +4,8 @@ categories: [it, programming]
 tags: [Qt, SSL, HTTPS]
 download: https://github.com/Harrix/harrix.dev-blog-2018/raw/main/open-https-in-qt/files/test-opensll.zip
 update: 2019-07-26
+author: Anton Sergienko
+author-email: anton.b.sergienko@gmail.com
 ---
 
 # Открытие HTTPS в Qt

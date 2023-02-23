@@ -3,6 +3,8 @@ date: 2018-08-23
 categories: [it, program]
 tags: [Notepad++, Текстовой редактор, Sass, SCSS, Подсветка синтаксиса]
 related-id: notepad-highlight
+author: Anton Sergienko
+author-email: anton.b.sergienko@gmail.com
 ---
 
 # SCSS в Notepad++

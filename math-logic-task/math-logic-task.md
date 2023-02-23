@@ -3,6 +3,8 @@ date: 2018-11-17
 categories: [it, science]
 tags: [ЕГЭ]
 latex: true
+author: Anton Sergienko
+author-email: anton.b.sergienko@gmail.com
 ---
 
 # Задача из раздела «Частично заполненные таблицы истинности логических выражений»

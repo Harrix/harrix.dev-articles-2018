@@ -3,6 +3,8 @@ date: 2018-11-28
 categories: [it, programming]
 tags: [Visual Studio]
 update: 2019-07-25
+author: Anton Sergienko
+author-email: anton.b.sergienko@gmail.com
 ---
 
 # Скачивание старых версий Visual Studio

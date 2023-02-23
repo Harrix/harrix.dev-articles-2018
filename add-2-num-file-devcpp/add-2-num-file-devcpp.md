@@ -2,6 +2,8 @@
 date: 2018-09-29
 categories: [it, programming]
 tags: [Dev C++, C++, Сложение двух чисел, Работа с файлами]
+author: Anton Sergienko
+author-email: anton.b.sergienko@gmail.com
 ---
 
 # Сложение двух чисел из файла в Dev-C++ (консольное приложение)

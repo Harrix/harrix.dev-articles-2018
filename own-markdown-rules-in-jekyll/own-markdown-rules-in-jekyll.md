@@ -2,6 +2,8 @@
 date: 2018-10-13
 categories: [it, web]
 tags: [Jekyll, Markdown]
+author: Anton Sergienko
+author-email: anton.b.sergienko@gmail.com
 ---
 
 # Как добавить свои правила обработки Markdown в Jekyll

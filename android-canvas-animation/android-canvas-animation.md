@@ -2,6 +2,8 @@
 date: 2018-12-06
 categories: [it, programming]
 tags: [Android Studio, Android, Java, Анимация]
+author: Anton Sergienko
+author-email: anton.b.sergienko@gmail.com
 ---
 
 # Анимация на канве в Android

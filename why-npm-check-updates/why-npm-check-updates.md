@@ -2,6 +2,8 @@
 date: 2018-04-16
 categories: [it, web]
 tags: [Node.js]
+author: Anton Sergienko
+author-email: anton.b.sergienko@gmail.com
 ---
 
 # Зачем нужен npm-check-updates

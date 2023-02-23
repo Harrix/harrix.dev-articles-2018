@@ -2,6 +2,8 @@
 date: 2018-08-02
 categories: [it, os]
 tags: [Windows]
+author: Anton Sergienko
+author-email: anton.b.sergienko@gmail.com
 ---
 
 # Как сделать видимыми расширения файлов в Windows

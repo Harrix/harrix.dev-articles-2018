@@ -4,6 +4,8 @@ categories: [it, program]
 tags: [Установка, Qt, MinGW]
 related-id: start-qt
 update: 2021-08-09
+author: Anton Sergienko
+author-email: anton.b.sergienko@gmail.com
 ---
 
 # Установка Qt
