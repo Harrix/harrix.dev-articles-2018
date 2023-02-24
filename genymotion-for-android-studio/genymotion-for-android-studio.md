@@ -9,6 +9,7 @@ author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0
 license-url: https://github.com/Harrix/harrix.dev/blob/main/LICENSE.md
 url-src: https://github.com/Harrix/harrix.dev-blog-2018/blob/main/genymotion-for-android-studio/genymotion-for-android-studio.md
+url: https://harrix.dev/ru/blog/2018/genymotion-for-android-studio/
 ---
 
 # Эмулятор Genymotion для Android Studio
