@@ -6,6 +6,8 @@ download: https://github.com/Harrix/harrix.dev-blog-2018/raw/main/pscyr/files/PS
 latex: true
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
+license: CC BY 4.0
+license-url: https://github.com/Harrix/harrix.dev/blob/main/LICENSE.md
 ---
 
 # Установка PSCyr для LaTeX

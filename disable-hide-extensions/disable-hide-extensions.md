@@ -4,6 +4,8 @@ categories: [it, os]
 tags: [Windows]
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
+license: CC BY 4.0
+license-url: https://github.com/Harrix/harrix.dev/blob/main/LICENSE.md
 ---
 
 # Как сделать видимыми расширения файлов в Windows

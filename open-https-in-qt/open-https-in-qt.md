@@ -6,6 +6,8 @@ download: https://github.com/Harrix/harrix.dev-blog-2018/raw/main/open-https-in-
 update: 2019-07-26
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
+license: CC BY 4.0
+license-url: https://github.com/Harrix/harrix.dev/blob/main/LICENSE.md
 ---
 
 # Открытие HTTPS в Qt

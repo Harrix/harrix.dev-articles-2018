@@ -5,6 +5,8 @@ tags: [Russian, Python]
 download: https://github.com/Harrix/Russian-Nouns/releases/download/v2.0/russian_nouns_v2.0.zip
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
+license: CC BY 4.0
+license-url: https://github.com/Harrix/harrix.dev/blob/main/LICENSE.md
 ---
 
 # Список существительных русского языка
