@@ -111,3 +111,5 @@ public class MainActivity extends AppCompatActivity {
 ```
 
 ![Запущенное приложение](img\result.png)
+
+_Рисунок 1 — Запущенное приложение_
