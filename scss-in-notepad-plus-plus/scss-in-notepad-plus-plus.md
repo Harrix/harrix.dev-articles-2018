@@ -14,6 +14,8 @@ lang: ru
 
 # SCSS в Notepad++
 
+![Featured image](featured-image.svg)
+
 Как открыть SCSS файл в Notepad++ с подсветкой синтаксиса?
 
 Стили подсветки синтаксиса:

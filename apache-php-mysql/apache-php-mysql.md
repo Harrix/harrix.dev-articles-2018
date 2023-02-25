@@ -13,6 +13,8 @@ lang: ru
 
 # Установка Apache + PHP + MySQL + phpMyAdmin в Windows 10
 
+![Featured image](featured-image.svg)
+
 В статье рассказывается о том, как настроить связку Apache + PHP + MySQL + phpMyAdmin в Windows 10.
 
 Данная статья является переработкой статьи 2014 года.

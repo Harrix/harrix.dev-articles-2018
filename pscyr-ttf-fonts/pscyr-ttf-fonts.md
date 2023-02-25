@@ -15,6 +15,8 @@ lang: ru
 
 # Шрифты PSCyr в варианте TTF
 
+![Featured image](featured-image.svg)
+
 В заметке приведен архив шрифтов из пакета PSCyr в формате `.*ttf`, который понимает Windows.
 
 Пакет [PSCyr](https://github.com/Harrix/harrix.dev-blog-2018/blob/main/pscyr/pscyr.md) — решение для нормального отображения русских букв в LaTex. Всё работает, всё хорошо. Но мне понабились шрифты из пакета установить на Windows (чтобы в Illustrator редактировать PDF файлы, скомпилированные в LaTeX с помощью PSCyr), а в пакете шрифты есть в нескольких вариантах, но ни один из них Windows не переваривает.

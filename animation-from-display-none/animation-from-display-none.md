@@ -14,6 +14,8 @@ lang: ru
 
 # Анимация перехода display из none в block
 
+![Featured image](featured-image.svg)
+
 ## Постановка задачи
 
 Есть некий объект со свойством `display: none`. Нужно анимировать его появление, при изменении параметра `display`, например, на `block`.

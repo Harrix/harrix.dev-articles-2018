@@ -15,6 +15,8 @@ lang: ru
 
 # Открытие HTTPS в Qt
 
+![Featured image](featured-image.svg)
+
 В статье рассказывается как с помощью `QNetworkAccessManager` открывать HTTPS ссылки.
 
 Те или иные сборки OpenSSL под Windows можно посмотреть [тут](https://wiki.openssl.org/index.php/Binaries).

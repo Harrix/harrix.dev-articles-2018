@@ -13,6 +13,8 @@ lang: ru
 
 # Изменение цвета строки состояния и StatusBar в Android приложении
 
+![Featured image](featured-image.svg)
+
 Статья о том, как динамически изменять цвет элементов `StatusBar` и `ActionBar`.
 
 Цвет строки состояния можно поменять кодом:

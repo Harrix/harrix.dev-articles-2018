@@ -13,6 +13,8 @@ lang: ru
 
 # Анимация на канве в Android
 
+![Featured image](featured-image.svg)
+
 В статье приводятся несколько примеров рисования анимации на канве в Android Studio.
 
 ## Создание пустого проекта

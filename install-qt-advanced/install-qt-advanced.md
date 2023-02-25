@@ -15,6 +15,8 @@ lang: ru
 
 # Установка Qt под Visual Studio, MinGW и для разработки под Android
 
+![Featured image](featured-image.svg)
+
 Инструкция по установке Qt с компилятором Visual Studio, MinGW и возможностью программировать под Android на примере Windows 10.
 
 Если вы хотите установить Qt просто, чтобы программировать на C++ под Windows с стандартным компилятором, то вам подойдет упрощенная установка, описанная тут: [Установка Qt](https://github.com/Harrix/harrix.dev-blog-2018/blob/main/install-qt-mingw/install-qt-mingw.md).

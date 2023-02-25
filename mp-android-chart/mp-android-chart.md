@@ -13,6 +13,8 @@ lang: ru
 
 # Графики MPAndroidChart в Android Studio
 
+![Featured image](featured-image.svg)
+
 Для рисования графиков будем использовать библиотеку [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart) с 25 тысячами звезд на GitHub.
 
 ## Справочная информация
