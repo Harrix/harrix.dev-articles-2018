@@ -8,6 +8,7 @@ license: CC BY 4.0
 license-url: https://github.com/Harrix/harrix.dev/blob/main/LICENSE.md
 url-src: https://github.com/Harrix/harrix.dev-blog-2018/blob/main/disable-hide-extensions/disable-hide-extensions.md
 url: https://harrix.dev/ru/blog/2018/disable-hide-extensions/
+lang: ru
 ---
 
 # Как сделать видимыми расширения файлов в Windows

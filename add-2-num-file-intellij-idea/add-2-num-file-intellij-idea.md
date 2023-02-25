@@ -8,6 +8,7 @@ license: CC BY 4.0
 license-url: https://github.com/Harrix/harrix.dev/blob/main/LICENSE.md
 url-src: https://github.com/Harrix/harrix.dev-blog-2018/blob/main/add-2-num-file-intellij-idea/add-2-num-file-intellij-idea.md
 url: https://harrix.dev/ru/blog/2018/add-2-num-file-intellij-idea/
+lang: ru
 ---
 
 # Сложение двух чисел из файла в IntelliJ IDEA на Java (консольное приложение)

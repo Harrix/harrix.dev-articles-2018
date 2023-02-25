@@ -8,6 +8,7 @@ license: CC BY 4.0
 license-url: https://github.com/Harrix/harrix.dev/blob/main/LICENSE.md
 url-src: https://github.com/Harrix/harrix.dev-blog-2018/blob/main/own-markdown-rules-in-jekyll/own-markdown-rules-in-jekyll.md
 url: https://harrix.dev/ru/blog/2018/own-markdown-rules-in-jekyll/
+lang: ru
 ---
 
 # Как добавить свои правила обработки Markdown в Jekyll

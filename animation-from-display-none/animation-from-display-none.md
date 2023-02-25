@@ -9,6 +9,7 @@ license: CC BY 4.0
 license-url: https://github.com/Harrix/harrix.dev/blob/main/LICENSE.md
 url-src: https://github.com/Harrix/harrix.dev-blog-2018/blob/main/animation-from-display-none/animation-from-display-none.md
 url: https://harrix.dev/ru/blog/2018/animation-from-display-none/
+lang: ru
 ---
 
 # Анимация перехода display из none в block

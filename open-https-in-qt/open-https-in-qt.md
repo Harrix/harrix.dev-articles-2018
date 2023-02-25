@@ -10,6 +10,7 @@ license: CC BY 4.0
 license-url: https://github.com/Harrix/harrix.dev/blob/main/LICENSE.md
 url-src: https://github.com/Harrix/harrix.dev-blog-2018/blob/main/open-https-in-qt/open-https-in-qt.md
 url: https://harrix.dev/ru/blog/2018/open-https-in-qt/
+lang: ru
 ---
 
 # Открытие HTTPS в Qt

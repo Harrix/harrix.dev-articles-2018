@@ -10,6 +10,7 @@ license: CC BY 4.0
 license-url: https://github.com/Harrix/harrix.dev/blob/main/LICENSE.md
 url-src: https://github.com/Harrix/harrix.dev-blog-2018/blob/main/nox-for-android-studio/nox-for-android-studio.md
 url: https://harrix.dev/ru/blog/2018/nox-for-android-studio/
+lang: ru
 ---
 
 # Эмулятор Nox для Android Studio
