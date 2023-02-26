@@ -1,13 +1,13 @@
 {
-"attribution":[
-  {
-    "title": "Sass Logo Color.svg",
-    "permalink": "https://commons.wikimedia.org/wiki/File:Sass_Logo_Color.svg",
-    "permalink-date": "2019-06-22",
-    "author": "http://sass-lang.com/",
-    "author-site": "http://sass-lang.com/styleguide/brand/",
-    "license": "Public domain",
-    "license-url": "https://en.wikipedia.org/wiki/Public_domain"
-  }
-]
+  "attribution": [
+    {
+      "title": "Sass Logo Color.svg",
+      "permalink": "https://commons.wikimedia.org/wiki/File:Sass_Logo_Color.svg",
+      "permalink-date": "2019-06-22",
+      "author": "http://sass-lang.com/",
+      "author-site": "http://sass-lang.com/styleguide/brand/",
+      "license": "Public domain",
+      "license-url": "https://en.wikipedia.org/wiki/Public_domain"
+    }
+  ]
 }
