@@ -9,6 +9,28 @@ license-url: https://github.com/Harrix/harrix.dev/blob/main/LICENSE.md
 permalink-source: https://github.com/Harrix/harrix.dev-blog-2018/blob/main/start-java/start-java.md
 permalink: https://harrix.dev/ru/blog/2018/start-java/
 lang: ru
+attribution:
+  - author: Google Inc.
+    author-site: https://developer.android.com/license
+    license: CC BY 2.5
+    license-url: https://creativecommons.org/licenses/by/2.5/
+    permalink: https://commons.wikimedia.org/wiki/File:Android_Studio_icon.svg
+    permalink-date: 2019-06-07
+    name: Android Studio icon.svg
+  - author: Eclipse Foundation
+    author-site: http://www.eclipse.org/
+    license: Public domain
+    license-url: https://en.wikipedia.org/wiki/Public_domain
+    permalink: https://commons.wikimedia.org/wiki/File:Eclipse-Luna-Logo.svg
+    permalink-date: 2019-06-07
+    name: Eclipse-Luna-Logo.svg
+  - author: JetBrains
+    author-site: https://www.jetbrains.com/
+    license: Public domain
+    license-url: https://en.wikipedia.org/wiki/Public_domain
+    permalink: https://commons.wikimedia.org/wiki/File:IntelliJ_IDEA_Logo.svg
+    permalink-date: 2019-06-10
+    name: IntelliJ IDEA Logo.svg
 ---
 
 # Установка программ для программирования на Java

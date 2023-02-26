@@ -9,6 +9,21 @@ license-url: https://github.com/Harrix/harrix.dev/blob/main/LICENSE.md
 permalink-source: https://github.com/Harrix/harrix.dev-blog-2018/blob/main/own-markdown-rules-in-jekyll/own-markdown-rules-in-jekyll.md
 permalink: https://harrix.dev/ru/blog/2018/own-markdown-rules-in-jekyll/
 lang: ru
+attribution:
+  - author: Dustin Curtis
+    author-site: https://github.com/dcurtis
+    license: CC0
+    license-url: https://github.com/dcurtis/markdown-mark/blob/master/LICENSE
+    permalink: https://commons.wikimedia.org/wiki/File:Markdown-mark.svg
+    permalink-date: 2019-03-19
+    name: Markdown-mark.svg
+  - author: Tom Preston-Werner
+    author-site: https://github.com/jekyll/brand/
+    license: CC BY 4.0
+    license-url: https://creativecommons.org/licenses/by/4.0/
+    permalink: https://commons.wikimedia.org/wiki/File:Jekyll_(software)_Logo.png
+    permalink-date: 2019-06-22
+    name: Jekyll (software) Logo.png
 ---
 
 # Как добавить свои правила обработки Markdown в Jekyll

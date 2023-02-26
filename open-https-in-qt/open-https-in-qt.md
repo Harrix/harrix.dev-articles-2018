@@ -11,6 +11,21 @@ license-url: https://github.com/Harrix/harrix.dev/blob/main/LICENSE.md
 permalink-source: https://github.com/Harrix/harrix.dev-blog-2018/blob/main/open-https-in-qt/open-https-in-qt.md
 permalink: https://harrix.dev/ru/blog/2018/open-https-in-qt/
 lang: ru
+attribution:
+  - author: OpenSSL authors
+    author-site: https://www.openssl.org/
+    license: Public domain
+    license-url: https://en.wikipedia.org/wiki/Public_domain
+    permalink: https://commons.wikimedia.org/wiki/File:OpenSSL_logo.png
+    permalink-date: 2019-06-22
+    name: OpenSSL logo.png
+  - author: Qt Project
+    author-site: https://www.qt.io
+    license: Public domain
+    license-url: https://en.wikipedia.org/wiki/Public_domain
+    permalink: https://commons.wikimedia.org/wiki/File:Qt_logo_2016.svg
+    permalink-date: 2019-01-26
+    name: Qt logo 2016.svg
 ---
 
 # Открытие HTTPS в Qt
