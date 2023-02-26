@@ -8,7 +8,7 @@ author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0
 license-url: https://github.com/Harrix/harrix.dev/blob/main/LICENSE.md
 url-src: https://github.com/Harrix/harrix.dev-blog-2018/blob/main/animation-from-display-none/animation-from-display-none.md
-url: https://harrix.dev/ru/blog/2018/animation-from-display-none/
+permalink: https://harrix.dev/ru/blog/2018/animation-from-display-none/
 lang: ru
 ---
 
@@ -195,7 +195,7 @@ function toggleTwoClasses(element, first, second, timeOfAnimation) {
     element.classList.remove(second);
   } else {
     element.classList.add(second);
-    window.setTimeout(function() {
+    window.setTimeout(function () {
       element.classList.remove(first);
     }, timeOfAnimation);
   }

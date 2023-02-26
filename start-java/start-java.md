@@ -7,7 +7,7 @@ author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0
 license-url: https://github.com/Harrix/harrix.dev/blob/main/LICENSE.md
 url-src: https://github.com/Harrix/harrix.dev-blog-2018/blob/main/start-java/start-java.md
-url: https://harrix.dev/ru/blog/2018/start-java/
+permalink: https://harrix.dev/ru/blog/2018/start-java/
 lang: ru
 ---
 

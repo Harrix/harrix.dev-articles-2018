@@ -7,7 +7,7 @@ author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0
 license-url: https://github.com/Harrix/harrix.dev/blob/main/LICENSE.md
 url-src: https://github.com/Harrix/harrix.dev-blog-2018/blob/main/add-2-num-file-intellij-idea/add-2-num-file-intellij-idea.md
-url: https://harrix.dev/ru/blog/2018/add-2-num-file-intellij-idea/
+permalink: https://harrix.dev/ru/blog/2018/add-2-num-file-intellij-idea/
 lang: ru
 ---
 
