@@ -12,13 +12,9 @@ permalink-source: https://github.com/Harrix/harrix.dev-blog-2018/blob/main/blues
 permalink: https://harrix.dev/ru/blog/2018/bluestacks-for-android-studio/
 lang: ru
 attribution:
-  - author: TechWeek
-    author-site: http://downloads.techweekeurope.co.uk/
-    license: CC BY 3.0
-    license-url: https://creativecommons.org/licenses/by/3.0/
-    permalink: https://commons.wikimedia.org/wiki/File:BlueStacks-Logo.jpg
-    permalink-date: 2019-06-22
-    name: BlueStacks-Logo.jpg
+- {author: TechWeek, author-site: 'http://downloads.techweekeurope.co.uk/', license: CC
+    BY 3.0, license-url: 'https://creativecommons.org/licenses/by/3.0/', permalink: 'https://commons.wikimedia.org/wiki/File:BlueStacks-Logo.jpg',
+  permalink-date: 2019-06-22, name: BlueStacks-Logo.jpg}
 ---
 
 # Эмулятор BlueStacks для Android Studio
