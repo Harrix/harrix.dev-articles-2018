@@ -11,10 +11,15 @@ permalink-source: https://github.com/Harrix/harrix.dev-blog-2018/blob/main/scss-
 permalink: https://harrix.dev/ru/blog/2018/scss-in-notepad-plus-plus/
 lang: ru
 attribution:
-- {author: 'http://sass-lang.com/', author-site: 'http://sass-lang.com/styleguide/brand/',
-  license: Public domain, license-url: 'https://en.wikipedia.org/wiki/Public_domain',
-  permalink: 'https://commons.wikimedia.org/wiki/File:Sass_Logo_Color.svg', permalink-date: 2019-06-22,
-  name: Sass Logo Color.svg}
+  - {
+      author: "http://sass-lang.com/",
+      author-site: "http://sass-lang.com/styleguide/brand/",
+      license: Public domain,
+      license-url: "https://en.wikipedia.org/wiki/Public_domain",
+      permalink: "https://commons.wikimedia.org/wiki/File:Sass_Logo_Color.svg",
+      permalink-date: 2019-06-22,
+      name: Sass Logo Color.svg,
+    }
 ---
 
 # SCSS в Notepad++

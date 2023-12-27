@@ -10,10 +10,15 @@ permalink-source: https://github.com/Harrix/harrix.dev-blog-2018/blob/main/add-2
 permalink: https://harrix.dev/ru/blog/2018/add-2-num-file-devcpp/
 lang: ru
 attribution:
-- {author: Remember the dot, author-site: 'https://en.wikipedia.org/wiki/User:Remember_the_dot',
-  license: GNU General Public License, license-url: 'https://en.wikipedia.org/wiki/GNU_General_Public_License',
-  permalink: 'https://commons.wikimedia.org/wiki/File:Dev-C%2B%2B_4.9.9.2_icon.png',
-  permalink-date: 2019-06-22, name: Dev-C++ 4.9.9.2 icon.png}
+  - {
+      author: Remember the dot,
+      author-site: "https://en.wikipedia.org/wiki/User:Remember_the_dot",
+      license: GNU General Public License,
+      license-url: "https://en.wikipedia.org/wiki/GNU_General_Public_License",
+      permalink: "https://commons.wikimedia.org/wiki/File:Dev-C%2B%2B_4.9.9.2_icon.png",
+      permalink-date: 2019-06-22,
+      name: Dev-C++ 4.9.9.2 icon.png,
+    }
 ---
 
 # Сложение двух чисел из файла в Dev-C++ (консольное приложение)

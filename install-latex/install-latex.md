@@ -12,10 +12,16 @@ permalink-source: https://github.com/Harrix/harrix.dev-blog-2018/blob/main/insta
 permalink: https://harrix.dev/ru/blog/2018/install-latex/
 lang: ru
 attribution:
-- {author: EmilJ, author-site: 'https://commons.wikimedia.org/wiki/User:EmilJ', license: GNU
-    General Public License, license-url: 'https://en.wikipedia.org/wiki/GNU_General_Public_License',
-  permalink: 'https://commons.wikimedia.org/wiki/File:LaTeX_logo.svg', permalink-date: 2019-03-17,
-  name: LaTeX logo.svg}
+  - {
+      author: EmilJ,
+      author-site: "https://commons.wikimedia.org/wiki/User:EmilJ",
+      license: GNU
+        General Public License,
+      license-url: "https://en.wikipedia.org/wiki/GNU_General_Public_License",
+      permalink: "https://commons.wikimedia.org/wiki/File:LaTeX_logo.svg",
+      permalink-date: 2019-03-17,
+      name: LaTeX logo.svg,
+    }
 ---
 
 # Установка и настройка программ для редактирования LaTeX файлов
