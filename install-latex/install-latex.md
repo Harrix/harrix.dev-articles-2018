@@ -8,20 +8,12 @@ author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0
 license-url: https://github.com/Harrix/harrix.dev/blob/main/LICENSE.md
-permalink-source: https://github.com/Harrix/harrix.dev-blog-2018/blob/main/install-latex/install-latex.md
-permalink: https://harrix.dev/ru/blog/2018/install-latex/
+permalink-source: https://github.com/Harrix/harrix.dev-articles-2018/blob/main/install-latex/install-latex.md
+permalink: https://harrix.dev/ru/articles/2018/install-latex/
 lang: ru
 attribution:
-  - {
-      author: EmilJ,
-      author-site: "https://commons.wikimedia.org/wiki/User:EmilJ",
-      license: GNU
-        General Public License,
-      license-url: "https://en.wikipedia.org/wiki/GNU_General_Public_License",
-      permalink: "https://commons.wikimedia.org/wiki/File:LaTeX_logo.svg",
-      permalink-date: 2019-03-17,
-      name: LaTeX logo.svg,
-    }
+  - { author: EmilJ, author-site: "https://commons.wikimedia.org/wiki/User:EmilJ", license: GNU
+        General Public License, license-url: "https://en.wikipedia.org/wiki/GNU_General_Public_License", permalink: "https://commons.wikimedia.org/wiki/File:LaTeX_logo.svg", permalink-date: 2019-03-17, name: LaTeX logo.svg }
 ---
 
 # Установка и настройка программ для редактирования LaTeX файлов
@@ -38,7 +30,7 @@ attribution:
 
 `TeXstudio` — редактор `*.tex` файлов. Через нее вы и будете работать почти всё время.
 
-`pscyr` — пакет, с помощью которого подключаются некоторые русские шрифты. В поставке MiKTeX его нет, но бывает крайне полезен. После установки вы также можете про него забыть. Об его установке можно прочитать в статье «[Установка PSCyr для LaTeX](https://github.com/Harrix/harrix.dev-blog-2018/blob/main/pscyr/pscyr.md) <!-- https://harrix.dev/ru/blog/2018/pscyr/ -->».
+`pscyr` — пакет, с помощью которого подключаются некоторые русские шрифты. В поставке MiKTeX его нет, но бывает крайне полезен. После установки вы также можете про него забыть. Об его установке можно прочитать в статье «[Установка PSCyr для LaTeX](https://github.com/Harrix/harrix.dev-articles-2018/blob/main/pscyr/pscyr.md) <!-- https://harrix.dev/ru/articles/2018/pscyr/ -->».
 
 ## Установка MiKTeX
 
@@ -281,7 +273,7 @@ _Рисунок 35 — Открытый PDF документ_
 
 ## Установка pscyr
 
-Процесс установки `pscyr` долгий и сложный. Подробное описание процесса изложено в другой статье, а именно «[Установка PSCyr для LaTeX](https://github.com/Harrix/harrix.dev-blog-2018/blob/main/pscyr/pscyr.md) <!-- https://harrix.dev/ru/blog/2018/pscyr/ -->».
+Процесс установки `pscyr` долгий и сложный. Подробное описание процесса изложено в другой статье, а именно «[Установка PSCyr для LaTeX](https://github.com/Harrix/harrix.dev-articles-2018/blob/main/pscyr/pscyr.md) <!-- https://harrix.dev/ru/articles/2018/pscyr/ -->».
 
 ## Настройка установленных программ
 
@@ -516,7 +508,7 @@ _Рисунок 47 — Измененная система сборки библ
 
 ## Дополнительно
 
-В статье [Проверка орфографии в TeXstudio](https://github.com/Harrix/harrix.dev-blog-2013/blob/main/spell-check-in-texstudio/spell-check-in-texstudio.md) <!-- https://harrix.dev/ru/blog/2013/spell-check-in-texstudio/ --> рассказано как настроить проверку орфографии.
+В статье [Проверка орфографии в TeXstudio](https://github.com/Harrix/harrix.dev-articles-2013/blob/main/spell-check-in-texstudio/spell-check-in-texstudio.md) <!-- https://harrix.dev/ru/articles/2013/spell-check-in-texstudio/ --> рассказано как настроить проверку орфографии.
 
 Еще по умолчанию в качестве отступа используется знак табуляции, которым в приличном обществе стараются не пользоваться. На скриншотах показано, как их поменять на 2 пробела (кто хочет, может оставить 4 пробела):
 

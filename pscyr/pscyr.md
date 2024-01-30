@@ -2,14 +2,14 @@
 date: 2018-08-03
 categories: [it, tex]
 tags: [LaTeX, Установка]
-download: https://github.com/Harrix/harrix.dev-blog-2018/raw/main/pscyr/files/PSCyr.zip
+download: https://github.com/Harrix/harrix.dev-articles-2018/raw/main/pscyr/files/PSCyr.zip
 latex: true
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0
 license-url: https://github.com/Harrix/harrix.dev/blob/main/LICENSE.md
-permalink-source: https://github.com/Harrix/harrix.dev-blog-2018/blob/main/pscyr/pscyr.md
-permalink: https://harrix.dev/ru/blog/2018/pscyr/
+permalink-source: https://github.com/Harrix/harrix.dev-articles-2018/blob/main/pscyr/pscyr.md
+permalink: https://harrix.dev/ru/articles/2018/pscyr/
 lang: ru
 ---
 
@@ -23,7 +23,7 @@ lang: ru
 
 Статья полезна тем, кто у себя получает ошибку вида: `` File `pscyr.sty' not found ``.
 
-На всякий случай [ссылка](https://github.com/Harrix/harrix.dev-blog-2018/blob/main/install-latex/install-latex.md) <!-- https://harrix.dev/ru/blog/2018/install-latex/ --> на статью «Установка и настройка программ для редактирования LaTeX файлов».
+На всякий случай [ссылка](https://github.com/Harrix/harrix.dev-articles-2018/blob/main/install-latex/install-latex.md) <!-- https://harrix.dev/ru/articles/2018/install-latex/ --> на статью «Установка и настройка программ для редактирования LaTeX файлов».
 
 ## Пакеты
 

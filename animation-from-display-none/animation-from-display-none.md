@@ -7,8 +7,8 @@ author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0
 license-url: https://github.com/Harrix/harrix.dev/blob/main/LICENSE.md
-permalink-source: https://github.com/Harrix/harrix.dev-blog-2018/blob/main/animation-from-display-none/animation-from-display-none.md
-permalink: https://harrix.dev/ru/blog/2018/animation-from-display-none/
+permalink-source: https://github.com/Harrix/harrix.dev-articles-2018/blob/main/animation-from-display-none/animation-from-display-none.md
+permalink: https://harrix.dev/ru/articles/2018/animation-from-display-none/
 lang: ru
 ---
 

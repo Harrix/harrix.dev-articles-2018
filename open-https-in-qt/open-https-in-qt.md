@@ -2,26 +2,18 @@
 date: 2018-10-27
 categories: [it, programming]
 tags: [Qt, SSL, HTTPS]
-download: https://github.com/Harrix/harrix.dev-blog-2018/raw/main/open-https-in-qt/files/test-opensll.zip
+download: https://github.com/Harrix/harrix.dev-articles-2018/raw/main/open-https-in-qt/files/test-opensll.zip
 update: 2019-07-26
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0
 license-url: https://github.com/Harrix/harrix.dev/blob/main/LICENSE.md
-permalink-source: https://github.com/Harrix/harrix.dev-blog-2018/blob/main/open-https-in-qt/open-https-in-qt.md
-permalink: https://harrix.dev/ru/blog/2018/open-https-in-qt/
+permalink-source: https://github.com/Harrix/harrix.dev-articles-2018/blob/main/open-https-in-qt/open-https-in-qt.md
+permalink: https://harrix.dev/ru/articles/2018/open-https-in-qt/
 lang: ru
 attribution:
-  - {
-      author: OpenSSL authors,
-      author-site: "https://www.openssl.org/",
-      license: Public
-        domain,
-      license-url: "https://en.wikipedia.org/wiki/Public_domain",
-      permalink: "https://commons.wikimedia.org/wiki/File:OpenSSL_logo.png",
-      permalink-date: 2019-06-22,
-      name: OpenSSL logo.png,
-    }
+  - { author: OpenSSL authors, author-site: "https://www.openssl.org/", license: Public
+        domain, license-url: "https://en.wikipedia.org/wiki/Public_domain", permalink: "https://commons.wikimedia.org/wiki/File:OpenSSL_logo.png", permalink-date: 2019-06-22, name: OpenSSL logo.png }
   - {
       author: Qt Project,
       author-site: "https://www.qt.io",
