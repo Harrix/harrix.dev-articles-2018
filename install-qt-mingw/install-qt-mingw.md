@@ -29,9 +29,9 @@ attribution:
 
 Инструкция по установке Qt с компилятором MinGW на Windows 10.
 
-Если вы хотите установить Qt с поддержкой компилятора Visual Studio или для разработки под Android, то данная статья не подойдет, так что вам сюда: [Установка Qt под Visual Studio, MinGW и для разработки под Android](https://github.com/Harrix/harrix.dev-articles-2018/blob/main/install-qt-advanced/install-qt-advanced.md)<!-- https://harrix.dev/ru/articles/2018/install-qt-advanced/ -->.
+Если вы хотите установить Qt с поддержкой компилятора Visual Studio или для разработки под Android, то данная статья не подойдет, так что вам сюда: [Установка Qt под Visual Studio, MinGW и для разработки под Android](https://github.com/Harrix/harrix.dev-articles-2018/blob/main/install-qt-advanced/install-qt-advanced.md) | [🡥](https://harrix.dev/ru/articles/2018/install-qt-advanced/).
 
-Если вы хотите установить Qt под Windows XP, то данная статья не подойдет, так что вам сюда: [Установка Qt 4.8.4 на Windows XP](https://github.com/Harrix/harrix.dev-articles-2014/blob/main/install-qt-on-windows-xp/install-qt-on-windows-xp.md)<!-- https://harrix.dev/ru/articles/2014/install-qt-on-windows-xp/ -->.
+Если вы хотите установить Qt под Windows XP, то данная статья не подойдет, так что вам сюда: [Установка Qt 4.8.4 на Windows XP](https://github.com/Harrix/harrix.dev-articles-2014/blob/main/install-qt-on-windows-xp/install-qt-on-windows-xp.md) | [🡥](https://harrix.dev/ru/articles/2014/install-qt-on-windows-xp/).
 
 ## Скачивание Qt
 
