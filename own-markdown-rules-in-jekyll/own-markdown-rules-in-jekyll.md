@@ -19,8 +19,16 @@ attribution:
       permalink-date: 2019-03-19,
       name: Markdown-mark.svg,
     }
-  - { author: Tom Preston-Werner, author-site: "https://github.com/jekyll/brand/", license: CC
-        BY 4.0, license-url: "https://creativecommons.org/licenses/by/4.0/", permalink: "https://commons.wikimedia.org/wiki/File:Jekyll_(software)_Logo.png", permalink-date: 2019-06-22, name: Jekyll (software) Logo.png }
+  - {
+      author: Tom Preston-Werner,
+      author-site: "https://github.com/jekyll/brand/",
+      license: CC
+        BY 4.0,
+      license-url: "https://creativecommons.org/licenses/by/4.0/",
+      permalink: "https://commons.wikimedia.org/wiki/File:Jekyll_(software)_Logo.png",
+      permalink-date: 2019-06-22,
+      name: Jekyll (software) Logo.png,
+    }
 ---
 
 # Как добавить свои правила обработки Markdown в Jekyll

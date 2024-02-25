@@ -228,7 +228,7 @@ _Рисунок 16 — Первый запуск http://localhost_
 Создадим текстовой файл `index.html` в папке `D:\Server\htdocs\www` со следующим содержимым:
 
 ```html
-<!DOCTYPE html>
+<!doctype html>
 <html>
   <body>
     <h1>Localhost</h1>
@@ -240,7 +240,7 @@ _Рисунок 16 — Первый запуск http://localhost_
 И создадим текстовой файл `index.html` в папке `D:\Server\htdocs\phpmyadmin` со следующим содержимым:
 
 ```html
-<!DOCTYPE html>
+<!doctype html>
 <html>
   <body>
     <h1>PhpMyAdmin</h1>

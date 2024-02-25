@@ -1,7 +1,8 @@
 ---
 date: 2018-08-19
 categories: [it, program]
-tags: [Установка, Android Studio, Eclipse, IntelliJ IDEA, JetBrains, Android, Java]
+tags:
+  [Установка, Android Studio, Eclipse, IntelliJ IDEA, JetBrains, Android, Java]
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0
@@ -10,10 +11,26 @@ permalink-source: https://github.com/Harrix/harrix.dev-articles-2018/blob/main/s
 permalink: https://harrix.dev/ru/articles/2018/start-java/
 lang: ru
 attribution:
-  - { author: Google Inc., author-site: "https://developer.android.com/license", license: CC
-        BY 2.5, license-url: "https://creativecommons.org/licenses/by/2.5/", permalink: "https://commons.wikimedia.org/wiki/File:Android_Studio_icon.svg", permalink-date: 2019-06-07, name: Android Studio icon.svg }
-  - { author: Eclipse Foundation, author-site: "http://www.eclipse.org/", license: Public
-        domain, license-url: "https://en.wikipedia.org/wiki/Public_domain", permalink: "https://commons.wikimedia.org/wiki/File:Eclipse-Luna-Logo.svg", permalink-date: 2019-06-07, name: Eclipse-Luna-Logo.svg }
+  - {
+      author: Google Inc.,
+      author-site: "https://developer.android.com/license",
+      license: CC
+        BY 2.5,
+      license-url: "https://creativecommons.org/licenses/by/2.5/",
+      permalink: "https://commons.wikimedia.org/wiki/File:Android_Studio_icon.svg",
+      permalink-date: 2019-06-07,
+      name: Android Studio icon.svg,
+    }
+  - {
+      author: Eclipse Foundation,
+      author-site: "http://www.eclipse.org/",
+      license: Public
+        domain,
+      license-url: "https://en.wikipedia.org/wiki/Public_domain",
+      permalink: "https://commons.wikimedia.org/wiki/File:Eclipse-Luna-Logo.svg",
+      permalink-date: 2019-06-07,
+      name: Eclipse-Luna-Logo.svg,
+    }
   - {
       author: JetBrains,
       author-site: "https://www.jetbrains.com/",
