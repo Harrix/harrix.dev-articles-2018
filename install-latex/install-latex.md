@@ -12,16 +12,8 @@ permalink-source: https://github.com/Harrix/harrix.dev-articles-2018/blob/main/i
 permalink: https://harrix.dev/ru/articles/2018/install-latex/
 lang: ru
 attribution:
-  - {
-      author: EmilJ,
-      author-site: "https://commons.wikimedia.org/wiki/User:EmilJ",
-      license: GNU
-        General Public License,
-      license-url: "https://en.wikipedia.org/wiki/GNU_General_Public_License",
-      permalink: "https://commons.wikimedia.org/wiki/File:LaTeX_logo.svg",
-      permalink-date: 2019-03-17,
-      name: LaTeX logo.svg,
-    }
+  - { author: EmilJ, author-site: "https://commons.wikimedia.org/wiki/User:EmilJ", license: GNU
+        General Public License, license-url: "https://en.wikipedia.org/wiki/GNU_General_Public_License", permalink: "https://commons.wikimedia.org/wiki/File:LaTeX_logo.svg", permalink-date: 2019-03-17, name: LaTeX logo.svg }
 ---
 
 # Установка и настройка программ для редактирования LaTeX файлов
@@ -367,7 +359,7 @@ _Рисунок 39 — Окно «Выполнить»_
 
 Вводим там следующее:
 
-```console
+```powershell
 initexmf --edit-config-file=pdflatex
 ```
 
@@ -379,7 +371,7 @@ _Рисунок 40 — Ввод команды_
 
 Вводим следующий текст и сохраняем, закрываем, сохраняя:
 
-```console
+```powershell
 main_memory=30000000
 ```
 
@@ -387,7 +379,7 @@ main_memory=30000000
 
 Аналогично вводим команду:
 
-```console
+```powershell
 initexmf --dump=pdflatex
 ```
 
@@ -417,13 +409,13 @@ _Рисунок 43 — Ввод команды_
 
 Меняем содержимое строчки:
 
-```console
+```powershell
 pdflatex.exe -synctex=1 -interaction=nonstopmode %.tex
 ```
 
 Измененная строчка:
 
-```console
+```powershell
 pdflatex -shell-escape -interaction=nonstopmode %.tex
 ```
 

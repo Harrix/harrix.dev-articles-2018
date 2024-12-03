@@ -228,7 +228,7 @@ _Рисунок 16 — Первый запуск http://localhost_
 Создадим текстовой файл `index.html` в папке `D:\Server\htdocs\www` со следующим содержимым:
 
 ```html
-<!doctype html>
+<!DOCTYPE html>
 <html>
   <body>
     <h1>Localhost</h1>
@@ -240,7 +240,7 @@ _Рисунок 16 — Первый запуск http://localhost_
 И создадим текстовой файл `index.html` в папке `D:\Server\htdocs\phpmyadmin` со следующим содержимым:
 
 ```html
-<!doctype html>
+<!DOCTYPE html>
 <html>
   <body>
     <h1>PhpMyAdmin</h1>
@@ -281,7 +281,7 @@ _Рисунок 21 — Запущенная командная строка_
 
 Вводим там:
 
-```console
+```powershell
 c:\Server\Apache24\bin\httpd.exe -k install
 ```
 
@@ -717,7 +717,7 @@ _Рисунок 55 — Командная строка_
 
 Теперь пропишите команду удаления службы:
 
-```console
+```powershell
 sc delete Apache2.4
 ```
 

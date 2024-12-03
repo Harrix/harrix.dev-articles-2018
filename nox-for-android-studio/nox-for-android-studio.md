@@ -12,16 +12,8 @@ permalink-source: https://github.com/Harrix/harrix.dev-articles-2018/blob/main/n
 permalink: https://harrix.dev/ru/articles/2018/nox-for-android-studio/
 lang: ru
 attribution:
-  - {
-      author: "https://ru.bignox.com/",
-      author-site: "https://ru.bignox.com/",
-      license: CC0
-        1.0,
-      license-url: "https://creativecommons.org/publicdomain/zero/1.0/",
-      permalink: "https://ru.wikipedia.org/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Nox_App_Player_Icon.png",
-      permalink-date: 2019-06-22,
-      name: Nox App Player Icon.png,
-    }
+  - { author: "https://ru.bignox.com/", author-site: "https://ru.bignox.com/", license: CC0
+        1.0, license-url: "https://creativecommons.org/publicdomain/zero/1.0/", permalink: "https://ru.wikipedia.org/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Nox_App_Player_Icon.png", permalink-date: 2019-06-22, name: Nox App Player Icon.png }
 ---
 
 # Эмулятор Nox для Android Studio
@@ -148,7 +140,7 @@ _Рисунок 19 — Переход в папку с Nox_
 
 После этого вводим следующую команду и ждем её выполнение:
 
-```console
+```powershell
 nox_adb.exe connect 127.0.0.1:62001
 ```
 

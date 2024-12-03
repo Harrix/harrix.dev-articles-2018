@@ -395,7 +395,7 @@ for (int i = 0; i < n; i++) {
 
 В консоли выведется текст:
 
-```console
+```powershell
 i = 0
 i = 1
 i = 2
