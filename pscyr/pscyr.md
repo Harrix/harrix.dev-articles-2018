@@ -45,7 +45,7 @@ _Рисунок 1 — Папка MiKTeX 2.9_
 
 Вводим там следующее:
 
-```powershell
+```cmd
 initexmf --edit-config-file dvips
 ```
 
@@ -57,7 +57,7 @@ _Рисунок 2 — Выполнение первой команды_
 
 Вводим следующий текст и сохраняем:
 
-```powershell
+```cmd
 p +pscyr.map
 ```
 
@@ -69,13 +69,13 @@ _Рисунок 3 — Ввод текста в блокнот_
 
 Аналогично вводим команду:
 
-```powershell
+```cmd
 initexmf --edit-config-file pdftex
 ```
 
 В блокноте вводим и сохраняем текст:
 
-```powershell
+```cmd
 +pscyr.map
 ```
 
@@ -89,13 +89,13 @@ _Рисунок 5 — Ввод текста в блокнот_
 
 Аналогично вводим команду:
 
-```powershell
+```cmd
 initexmf --edit-config-file updmap
 ```
 
 В блокноте вводим и сохраняем текст:
 
-```powershell
+```cmd
 Map pscyr.map
 ```
 
@@ -109,7 +109,7 @@ _Рисунок 7 — Ввод текста в блокнот_
 
 Вводим команду:
 
-```powershell
+```cmd
 updmap
 ```
 
@@ -125,13 +125,13 @@ _Рисунок 9 — Черное окно консоли_
 
 Вводим команду:
 
-```powershell
+```cmd
 initexmf --edit-config-file dvipdfm
 ```
 
 В блокноте вводим и сохраняем текст:
 
-```powershell
+```cmd
 f pscyr2.map
 ```
 
@@ -145,7 +145,7 @@ _Рисунок 11 — Ввод текста в блокнот_
 
 Вводим команду:
 
-```powershell
+```cmd
 initexmf -u
 ```
 
@@ -191,7 +191,7 @@ _Рисунок 17 — MiKTeX Console_
 
 Выполняем команду:
 
-```powershell
+```cmd
 mkfntmap
 ```
 
@@ -205,7 +205,7 @@ _Рисунок 18 — MiKTeX Console_
 
 Теперь можно будет использовать нормальные русские шрифты при добавлении пакета в `tex` файл:
 
-```powershell
+```cmd
 \usepackage{pscyr} % Нормальные шрифты
 ```
 

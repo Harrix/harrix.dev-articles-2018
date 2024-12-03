@@ -274,11 +274,11 @@ _Рисунок 33 — Изменение директории проектов_
 
 Можно поменять язык интерфейса Visual Studio на английский, но лучше это сделать до установки Qt, как говорилось выше. Но если вы все-таки это сделали после установки Qt, и новые проекты хорошо компилируются под компилятором Visual Studio, то со старыми проектами могут возникнуть проблемы:
 
-```powershell
+```cmd
 Project ERROR: msvc-version.conf loaded but QMAKE_MSC_VER isn't set
 ```
 
-```powershell
+```cmd
 :-1: error: msvc-version.conf loaded but QMAKE_MSC_VER isn't set
 ```
 
