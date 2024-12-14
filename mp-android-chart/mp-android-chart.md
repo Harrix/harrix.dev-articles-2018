@@ -98,7 +98,7 @@ _Рисунок 3 — Запуск приложения_
 
 Если всё запустилось хорошо, то всё отлично. Но у меня вылетает такая ошибка:
 
-```cmd
+```shell
 More than one file was found with OS independent path 'META-INF/proguard/androidx-annotations.pro'
 ```
 
@@ -132,7 +132,7 @@ _Рисунок 7 — Запущенное приложение_
 
 Если вылетит ошибка с подобным сообщением, то просто перезапустите Android Studio, откройте проект и запустите заново приложение:
 
-```cmd
+```shell
 D:\Harrix\Projects\Android\ExampleMPAndroidChart\app\build\intermediates\transforms\mergeJavaRes\debug\0.jar: Процесс не может получить доступ к файлу, так как этот файл занят другим процессом.
 ```
 

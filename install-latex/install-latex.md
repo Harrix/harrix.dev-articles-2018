@@ -359,7 +359,7 @@ _Рисунок 39 — Окно «Выполнить»_
 
 Вводим там следующее:
 
-```cmd
+```shell
 initexmf --edit-config-file=pdflatex
 ```
 
@@ -371,7 +371,7 @@ _Рисунок 40 — Ввод команды_
 
 Вводим следующий текст и сохраняем, закрываем, сохраняя:
 
-```cmd
+```shell
 main_memory=30000000
 ```
 
@@ -379,7 +379,7 @@ main_memory=30000000
 
 Аналогично вводим команду:
 
-```cmd
+```shell
 initexmf --dump=pdflatex
 ```
 
@@ -409,13 +409,13 @@ _Рисунок 43 — Ввод команды_
 
 Меняем содержимое строчки:
 
-```cmd
+```shell
 pdflatex.exe -synctex=1 -interaction=nonstopmode %.tex
 ```
 
 Измененная строчка:
 
-```cmd
+```shell
 pdflatex -shell-escape -interaction=nonstopmode %.tex
 ```
 
