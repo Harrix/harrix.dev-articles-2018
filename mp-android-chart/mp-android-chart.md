@@ -340,9 +340,8 @@ chart.animateY(500);
 
 ## Полные коды активности
 
----
-
-**Полные коды** <!-- !details -->
+<details>
+<summary>Полные код</summary>
 
 Файл `activity_main.xml`:
 
@@ -455,3 +454,5 @@ public class MainActivity extends AppCompatActivity {
     }
 }
 ```
+
+</details>
