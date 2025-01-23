@@ -12,16 +12,8 @@ permalink-source: https://github.com/Harrix/harrix.dev-articles-2018/blob/main/i
 permalink: https://harrix.dev/ru/articles/2018/install-latex/
 lang: ru
 attribution:
-  - {
-      author: EmilJ,
-      author-site: "https://commons.wikimedia.org/wiki/User:EmilJ",
-      license: GNU
-        General Public License,
-      license-url: "https://en.wikipedia.org/wiki/GNU_General_Public_License",
-      permalink: "https://commons.wikimedia.org/wiki/File:LaTeX_logo.svg",
-      permalink-date: 2019-03-17,
-      name: LaTeX logo.svg,
-    }
+  - { author: EmilJ, author-site: "https://commons.wikimedia.org/wiki/User:EmilJ", license: GNU
+        General Public License, license-url: "https://en.wikipedia.org/wiki/GNU_General_Public_License", permalink: "https://commons.wikimedia.org/wiki/File:LaTeX_logo.svg", permalink-date: 2019-03-17, name: LaTeX logo.svg }
 ---
 
 # Установка и настройка программ для редактирования LaTeX файлов
@@ -62,9 +54,8 @@ _Рисунок 1 — Скачивание MiKTeX_
 
 Но иногда при установке (как минимум на прошлых версиях MiKTeX) вылетает ошибка `The thread function could not be started` на **Windows 7** и **Windows 8.1**. Поэтому в спойлере описан один из способов решения проблемы, который у меня не вызывал такую ошибку, а стандартная установка вызывала.
 
----
-
-**Если у вас ошибка при установке на примере Windows 7** <!-- !details -->
+<details>
+<summary>Если у вас ошибка при установке на примере Windows 7</summary>
 
 Щелкните правой кнопкой по файлу установщика и выберете пункт `Исправление неполадок совместимости`:
 
@@ -96,11 +87,10 @@ _Рисунок 5 — Bug fix_
 
 _Рисунок 6 — Bug fix_
 
----
+</details>
 
----
-
-**Если у вас ошибка при установке на примере Windows 8.1** <!-- !details -->
+<details>
+<summary>Если у вас ошибка при установке на примере Windows 8.1</summary>
 
 Щелкните правой кнопкой по файлу установщика и выберете пункт `Исправление неполадок совместимости`:
 
@@ -132,7 +122,7 @@ _Рисунок 10 — Bug fix_
 
 _Рисунок 11 — Bug fix_
 
----
+</details>
 
 Согласитесь с соглашением:
 
@@ -186,9 +176,8 @@ _Рисунок 20 — Установка MiKTeX_
 
 Этот пункт нужен, если исправляли ошибку под спойлерами выше. После этого надо довершить процесс работы по устранению несовместимостей:
 
----
-
-**Если у вас ошибка при установке, то сюда** <!-- !details -->
+<details>
+<summary>Если у вас ошибка при установке, то сюда</summary>
 
 Если пользовались решениями, которые описаны выше спойлерами, тот тут два скриншота экранов, которые у вас появятся после установки:
 
@@ -200,7 +189,7 @@ _Рисунок 21 — Bug fix_
 
 _Рисунок 22 — Bug fix_
 
----
+</details>
 
 Перезагрузите комп на всякий случай.
 
