@@ -1,7 +1,14 @@
 ---
 date: 2018-08-16
-categories: [it, program]
-tags: [Установка, Android Studio, Android, Виртуализация, Эмулятор]
+categories:
+  - it
+  - program
+tags:
+  - Установка
+  - Android Studio
+  - Android
+  - Виртуализация
+  - Эмулятор
 related-id: android-emulator
 update: 2021-08-08
 author: Anton Sergienko
@@ -12,16 +19,13 @@ permalink-source: https://github.com/Harrix/harrix.dev-articles-2018/blob/main/b
 permalink: https://harrix.dev/ru/articles/2018/bluestacks-for-android-studio/
 lang: ru
 attribution:
-  - {
-      author: TechWeek,
-      author-site: "http://downloads.techweekeurope.co.uk/",
-      license: CC
-        BY 3.0,
-      license-url: "https://creativecommons.org/licenses/by/3.0/",
-      permalink: "https://commons.wikimedia.org/wiki/File:BlueStacks-Logo.jpg",
-      permalink-date: 2019-06-22,
-      name: BlueStacks-Logo.jpg,
-    }
+  - author: TechWeek
+    author-site: http://downloads.techweekeurope.co.uk/
+    license: CC BY 3.0
+    license-url: https://creativecommons.org/licenses/by/3.0/
+    permalink: https://commons.wikimedia.org/wiki/File:BlueStacks-Logo.jpg
+    permalink-date: 2019-06-22
+    name: BlueStacks-Logo.jpg
 ---
 
 # Эмулятор BlueStacks для Android Studio

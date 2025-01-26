@@ -1,7 +1,11 @@
 ---
 date: 2018-08-10
-categories: [it, tex]
-tags: [LaTeX, Установка]
+categories:
+  - it
+  - tex
+tags:
+  - LaTeX
+  - Установка
 latex: true
 download: https://github.com/Harrix/harrix.dev-articles-2018/raw/main/pscyr-ttf-fonts/files/pscyr-ttf-fonts.zip
 author: Anton Sergienko

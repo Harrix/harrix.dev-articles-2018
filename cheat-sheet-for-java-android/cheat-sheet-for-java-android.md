@@ -1,7 +1,13 @@
 ---
 date: 2018-11-19
-categories: [it, program]
-tags: [Android Studio, IntelliJ IDEA, Android, Java]
+categories:
+  - it
+  - program
+tags:
+  - Android Studio
+  - IntelliJ IDEA
+  - Android
+  - Java
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

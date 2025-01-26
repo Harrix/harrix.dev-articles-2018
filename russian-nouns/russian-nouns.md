@@ -1,7 +1,11 @@
 ---
 date: 2018-11-11
-categories: [it, programming]
-tags: [Russian, Python]
+categories:
+  - it
+  - programming
+tags:
+  - Russian
+  - Python
 download: https://github.com/Harrix/Russian-Nouns/releases/download/v2.0/russian_nouns_v2.0.zip
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com

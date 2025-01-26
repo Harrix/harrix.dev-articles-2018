@@ -1,7 +1,10 @@
 ---
 date: 2018-04-16
-categories: [it, web]
-tags: [Node.js]
+categories:
+  - it
+  - web
+tags:
+  - Node.js
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0
@@ -10,15 +13,13 @@ permalink-source: https://github.com/Harrix/harrix.dev-articles-2018/blob/main/w
 permalink: https://harrix.dev/ru/articles/2018/why-npm-check-updates/
 lang: ru
 attribution:
-  - {
-      author: node.js authors,
-      author-site: "https://nodejs.org/",
-      license: Public domain,
-      license-url: "https://en.wikipedia.org/wiki/Public_domain",
-      permalink: "https://commons.wikimedia.org/wiki/File:Node.js_logo.svg",
-      permalink-date: 2019-06-21,
-      name: Node.js logo.svg,
-    }
+  - author: node.js authors
+    author-site: https://nodejs.org/
+    license: Public domain
+    license-url: https://en.wikipedia.org/wiki/Public_domain
+    permalink: https://commons.wikimedia.org/wiki/File:Node.js_logo.svg
+    permalink-date: 2019-06-21
+    name: Node.js logo.svg
 ---
 
 # Зачем нужен npm-check-updates

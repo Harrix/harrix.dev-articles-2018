@@ -1,7 +1,10 @@
 ---
 date: 2018-04-22
-categories: [it, web]
-tags: [CSS]
+categories:
+  - it
+  - web
+tags:
+  - CSS
 demo: https://codepen.io/Harrix/pen/JvYOKL
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com

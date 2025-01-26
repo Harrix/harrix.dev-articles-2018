@@ -1,7 +1,12 @@
 ---
 date: 2018-08-19
-categories: [it, program]
-tags: [Установка, Qt, MinGW]
+categories:
+  - it
+  - program
+tags:
+  - Установка
+  - Qt
+  - MinGW
 related-id: start-qt
 update: 2021-08-09
 author: Anton Sergienko
@@ -12,15 +17,13 @@ permalink-source: https://github.com/Harrix/harrix.dev-articles-2018/blob/main/i
 permalink: https://harrix.dev/ru/articles/2018/install-qt-mingw/
 lang: ru
 attribution:
-  - {
-      author: Qt Project,
-      author-site: "https://www.qt.io",
-      license: Public domain,
-      license-url: "https://en.wikipedia.org/wiki/Public_domain",
-      permalink: "https://commons.wikimedia.org/wiki/File:Qt_logo_2016.svg",
-      permalink-date: 2019-01-26,
-      name: Qt logo 2016.svg,
-    }
+  - author: Qt Project
+    author-site: https://www.qt.io
+    license: Public domain
+    license-url: https://en.wikipedia.org/wiki/Public_domain
+    permalink: https://commons.wikimedia.org/wiki/File:Qt_logo_2016.svg
+    permalink-date: 2019-01-26
+    name: Qt logo 2016.svg
 ---
 
 # Установка Qt

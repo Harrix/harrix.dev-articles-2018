@@ -1,7 +1,11 @@
 ---
 date: 2018-08-03
-categories: [it, tex]
-tags: [LaTeX, Установка]
+categories:
+  - it
+  - tex
+tags:
+  - LaTeX
+  - Установка
 download: https://github.com/Harrix/harrix.dev-articles-2018/raw/main/pscyr/files/PSCyr.zip
 latex: true
 author: Anton Sergienko

@@ -1,7 +1,13 @@
 ---
 date: 2018-12-06
-categories: [it, programming]
-tags: [Android Studio, Android, Java, Анимация]
+categories:
+  - it
+  - programming
+tags:
+  - Android Studio
+  - Android
+  - Java
+  - Анимация
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

@@ -1,7 +1,13 @@
 ---
 date: 2018-09-29
-categories: [it, programming]
-tags: [IntelliJ IDEA, Java, Сложение двух чисел, Работа с файлами]
+categories:
+  - it
+  - programming
+tags:
+  - IntelliJ IDEA
+  - Java
+  - Сложение двух чисел
+  - Работа с файлами
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0
@@ -10,15 +16,13 @@ permalink-source: https://github.com/Harrix/harrix.dev-articles-2018/blob/main/a
 permalink: https://harrix.dev/ru/articles/2018/add-2-num-file-intellij-idea/
 lang: ru
 attribution:
-  - {
-      author: JetBrains,
-      author-site: "https://www.jetbrains.com/",
-      license: Public domain,
-      license-url: "https://en.wikipedia.org/wiki/Public_domain",
-      permalink: "https://commons.wikimedia.org/wiki/File:IntelliJ_IDEA_Logo.svg",
-      permalink-date: 2019-06-10,
-      name: IntelliJ IDEA Logo.svg,
-    }
+  - author: JetBrains
+    author-site: https://www.jetbrains.com/
+    license: Public domain
+    license-url: https://en.wikipedia.org/wiki/Public_domain
+    permalink: https://commons.wikimedia.org/wiki/File:IntelliJ_IDEA_Logo.svg
+    permalink-date: 2019-06-10
+    name: IntelliJ IDEA Logo.svg
 ---
 
 # Сложение двух чисел из файла в IntelliJ IDEA на Java (консольное приложение)

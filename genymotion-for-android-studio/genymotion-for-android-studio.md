@@ -1,7 +1,14 @@
 ---
 date: 2018-08-16
-categories: [it, program]
-tags: [Установка, Android Studio, Android, Виртуализация, Эмулятор]
+categories:
+  - it
+  - program
+tags:
+  - Установка
+  - Android Studio
+  - Android
+  - Виртуализация
+  - Эмулятор
 related-id: android-emulator
 update: 2021-08-08
 author: Anton Sergienko

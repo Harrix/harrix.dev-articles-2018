@@ -1,7 +1,11 @@
 ---
 date: 2018-10-13
-categories: [it, web]
-tags: [Jekyll, Markdown]
+categories:
+  - it
+  - web
+tags:
+  - Jekyll
+  - Markdown
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0
@@ -10,25 +14,20 @@ permalink-source: https://github.com/Harrix/harrix.dev-articles-2018/blob/main/o
 permalink: https://harrix.dev/ru/articles/2018/own-markdown-rules-in-jekyll/
 lang: ru
 attribution:
-  - {
-      author: Dustin Curtis,
-      author-site: "https://github.com/dcurtis",
-      license: CC0,
-      license-url: "https://github.com/dcurtis/markdown-mark/blob/master/LICENSE",
-      permalink: "https://commons.wikimedia.org/wiki/File:Markdown-mark.svg",
-      permalink-date: 2019-03-19,
-      name: Markdown-mark.svg,
-    }
-  - {
-      author: Tom Preston-Werner,
-      author-site: "https://github.com/jekyll/brand/",
-      license: CC
-        BY 4.0,
-      license-url: "https://creativecommons.org/licenses/by/4.0/",
-      permalink: "https://commons.wikimedia.org/wiki/File:Jekyll_(software)_Logo.png",
-      permalink-date: 2019-06-22,
-      name: Jekyll (software) Logo.png,
-    }
+  - author: Dustin Curtis
+    author-site: https://github.com/dcurtis
+    license: CC0
+    license-url: https://github.com/dcurtis/markdown-mark/blob/master/LICENSE
+    permalink: https://commons.wikimedia.org/wiki/File:Markdown-mark.svg
+    permalink-date: 2019-03-19
+    name: Markdown-mark.svg
+  - author: Tom Preston-Werner
+    author-site: https://github.com/jekyll/brand/
+    license: CC BY 4.0
+    license-url: https://creativecommons.org/licenses/by/4.0/
+    permalink: https://commons.wikimedia.org/wiki/File:Jekyll_(software)_Logo.png
+    permalink-date: 2019-06-22
+    name: Jekyll (software) Logo.png
 ---
 
 # Как добавить свои правила обработки Markdown в Jekyll

@@ -1,7 +1,10 @@
 ---
 date: 2018-08-02
-categories: [it, os]
-tags: [Windows]
+categories:
+  - it
+  - os
+tags:
+  - Windows
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0

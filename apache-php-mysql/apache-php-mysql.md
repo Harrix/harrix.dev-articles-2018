@@ -1,7 +1,15 @@
 ---
 date: 2018-10-04
-categories: [it, web]
-tags: [Установка, Сервер, Apache, PHP, MySQL, phpMyAdmin]
+categories:
+  - it
+  - web
+tags:
+  - Установка
+  - Сервер
+  - Apache
+  - PHP
+  - MySQL
+  - phpMyAdmin
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0
