@@ -52,11 +52,11 @@ attribution:
 - [Шрифты](#шрифты)
 - [Автосохранение](#автосохранение)
 
+</details>
+
 Если вы хотите установить Qt просто, чтобы программировать на C++ под Windows с стандартным компилятором, то вам подойдет упрощенная установка, описанная тут: [Установка Qt](https://github.com/Harrix/harrix.dev-articles-2018/blob/main/install-qt-mingw/install-qt-mingw.md) | [🡥](https://harrix.dev/ru/articles/2018/install-qt-mingw/).
 
 Если вы хотите установить Qt под Windows XP, то данная статья вам не подойдет, так что вам сюда: [Установка Qt 4.8.4 на Windows XP](https://github.com/Harrix/harrix.dev-articles-2014/blob/main/install-qt-on-windows-xp/install-qt-on-windows-xp.md) | [🡥](https://harrix.dev/ru/articles/2014/install-qt-on-windows-xp/).
-
-</details>
 
 ## Подготовка для работы с компилятором Visual Studio
 

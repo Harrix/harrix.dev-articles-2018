@@ -50,9 +50,9 @@ attribution:
 - [Развертывание программы в Windows](#развертывание-программы-в-windows)
 - [Развертывание программы в Android](#развертывание-программы-в-android)
 
-Те или иные сборки OpenSSL под Windows можно посмотреть [тут](https://wiki.openssl.org/index.php/Binaries).
-
 </details>
+
+Те или иные сборки OpenSSL под Windows можно посмотреть [тут](https://wiki.openssl.org/index.php/Binaries).
 
 ## Установка OpenSSL (новый способ)
 
