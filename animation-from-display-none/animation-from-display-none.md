@@ -20,7 +20,7 @@ lang: ru
 ![Featured image](featured-image.svg)
 
 <details>
-<summary>📖 Содержание</summary>
+<summary>📖 Содержание ⬇️</summary>
 
 ## Содержание
 
