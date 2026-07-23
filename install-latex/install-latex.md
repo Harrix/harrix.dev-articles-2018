@@ -254,7 +254,7 @@ _Рисунок 29 — Создание нового файла_
 ```tex
 \documentclass{article}
 \begin{document}
-Hello world!
+  Hello world!
 \end{document}
 ```
 
@@ -303,7 +303,7 @@ _Рисунок 35 — Открытый PDF документ_
 Например, данный документ не скомпилируется. Как с раскомментированными двумя строчками, так и без:
 
 ```tex
-\documentclass[a4paper,12pt]{report}
+\documentclass[a4paper, 12pt]{report}
 
 \usepackage{geometry}
 \usepackage{cmap}
@@ -311,46 +311,44 @@ _Рисунок 35 — Открытый PDF документ_
 \usepackage[english, russian]{babel}
 \usepackage{pgfplots}
 
-\geometry{a4paper,top=2cm,bottom=2cm,left=2.5cm,right=1cm}
+\geometry{a4paper, top = 2cm, bottom = 2cm, left = 2.5cm, right = 1cm}
 
 %\usepgfplotslibrary{external}
-%\tikzexternalize[prefix=TikzPictures/]
+%\tikzexternalize[prefix = TikzPictures/]
 
 \begin{document}
-
   \begin{tikzpicture}
-  \begin{axis}[view/h=70]
-  \addplot3[
-  surf,
-  shader=flat,
-  samples=60,
-  domain=-3:3,y domain=-2:2]
-  {sin(deg(x+y^2))};
-  \end{axis}
+    \begin{axis}[view/h = 70]
+      \addplot3[
+      surf,
+      shader = flat,
+      samples = 60,
+      domain = -3:3, y domain = -2:2]
+      {sin(deg(x + y^2))};
+    \end{axis}
   \end{tikzpicture}
 
   \begin{tikzpicture}
-  \begin{axis}[view/h=70]
-  \addplot3[
-  surf,
-  shader=flat,
-  samples=60,
-  domain=-3:3,y domain=-2:2]
-  {sin(deg(x+y^2))};
-  \end{axis}
+    \begin{axis}[view/h = 70]
+      \addplot3[
+      surf,
+      shader = flat,
+      samples = 60,
+      domain = -3:3, y domain = -2:2]
+      {sin(deg(x + y^2))};
+    \end{axis}
   \end{tikzpicture}
 
   \begin{tikzpicture}
-  \begin{axis}[view/h=70]
-  \addplot3[
-  surf,
-  shader=flat,
-  samples=60,
-  domain=-3:3,y domain=-2:2]
-  {sin(deg(x+y^2))};
-  \end{axis}
+    \begin{axis}[view/h = 70]
+      \addplot3[
+      surf,
+      shader = flat,
+      samples = 60,
+      domain = -3:3, y domain = -2:2]
+      {sin(deg(x + y^2))};
+    \end{axis}
   \end{tikzpicture}
-
 \end{document}
 ```
 
@@ -445,7 +443,7 @@ pdflatex -shell-escape -interaction=nonstopmode %.tex
 Всё. Теперь при компиляции следующего документа мы не получим сообщение об ошибке:
 
 ```tex
-\documentclass[a4paper,12pt]{report}
+\documentclass[a4paper, 12pt]{report}
 
 \usepackage{geometry}
 \usepackage{cmap}
@@ -453,46 +451,44 @@ pdflatex -shell-escape -interaction=nonstopmode %.tex
 \usepackage[english, russian]{babel}
 \usepackage{pgfplots}
 
-\geometry{a4paper,top=2cm,bottom=2cm,left=2.5cm,right=1cm}
+\geometry{a4paper, top = 2cm, bottom = 2cm, left = 2.5cm, right = 1cm}
 
 \usepgfplotslibrary{external}
-\tikzexternalize[prefix=TikzPictures/]
+\tikzexternalize[prefix = TikzPictures/]
 
 \begin{document}
-
   \begin{tikzpicture}
-  \begin{axis}[view/h=70]
-  \addplot3[
-  surf,
-  shader=flat,
-  samples=60,
-  domain=-3:3,y domain=-2:2]
-  {sin(deg(x+y^2))};
-  \end{axis}
+    \begin{axis}[view/h = 70]
+      \addplot3[
+      surf,
+      shader = flat,
+      samples = 60,
+      domain = -3:3, y domain = -2:2]
+      {sin(deg(x + y^2))};
+    \end{axis}
   \end{tikzpicture}
 
   \begin{tikzpicture}
-  \begin{axis}[view/h=70]
-  \addplot3[
-  surf,
-  shader=flat,
-  samples=60,
-  domain=-3:3,y domain=-2:2]
-  {sin(deg(x+y^2))};
-  \end{axis}
+    \begin{axis}[view/h = 70]
+      \addplot3[
+      surf,
+      shader = flat,
+      samples = 60,
+      domain = -3:3, y domain = -2:2]
+      {sin(deg(x + y^2))};
+    \end{axis}
   \end{tikzpicture}
 
   \begin{tikzpicture}
-  \begin{axis}[view/h=70]
-  \addplot3[
-  surf,
-  shader=flat,
-  samples=60,
-  domain=-3:3,y domain=-2:2]
-  {sin(deg(x+y^2))};
-  \end{axis}
+    \begin{axis}[view/h = 70]
+      \addplot3[
+      surf,
+      shader = flat,
+      samples = 60,
+      domain = -3:3, y domain = -2:2]
+      {sin(deg(x + y^2))};
+    \end{axis}
   \end{tikzpicture}
-
 \end{document}
 ```
 
@@ -506,7 +502,7 @@ _Рисунок 44 — Скомпилированный документ с тр
 
 ```tex
 \usepgfplotslibrary{external}
-\tikzexternalize[prefix=TikzPictures/]
+\tikzexternalize[prefix = TikzPictures/]
 ```
 
 На всякий случай перезагрузите компьютер.
