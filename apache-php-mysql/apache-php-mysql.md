@@ -245,9 +245,9 @@ _Рисунок 15 — Сообщение об ошибке_
 
 Откроем браузер и введем `http://localhost` и жмем `Enter`. Если видим следующее, то всё хорошо:
 
-![Первый запуск http://localhost](img/config-apache_03.png)
+![Первый запуск `http://localhost`](img/config-apache_03.png)
 
-_Рисунок 16 — Первый запуск http://localhost_
+_Рисунок 16 — Первый запуск `http://localhost`_
 
 Создадим текстовой файл `index.html` в папке `D:\Server\htdocs\www` со следующим содержимым:
 
