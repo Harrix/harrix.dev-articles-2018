@@ -275,9 +275,9 @@ _Рисунок 16 — Первый запуск `http://localhost`_
 
 Теперь, если откроем в браузере `http://localhost`, то получим:
 
-![Проверка доступности HTML файла по адресу http://localhost](img/config-apache_04.png)
+![Проверка доступности HTML файла по адресу `http://localhost`](img/config-apache_04.png)
 
-_Рисунок 17 — Проверка доступности HTML файла по адресу http://localhost_
+_Рисунок 17 — Проверка доступности HTML файла по адресу `http://localhost`_
 
 А при заходе на адрес `http://phpmyadmin` получим вот это:
 
