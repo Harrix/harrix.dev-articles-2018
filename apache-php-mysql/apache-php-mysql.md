@@ -670,7 +670,7 @@ $cfg['Servers'][$i]['AllowNoPassword'] = true;
 
 Разумеется, что пароль вы меняете на свой.
 
-После этого файл сохраняется в папке `D:\Server\htdocs\phpmyadmin`.
+После этого файл сохраняется в папке `D:\Server\htdocs\phpmyadmin`:
 
 Перейдите в браузере по адресу: `http://phpmyadmin`. Если вы увидите работающий phpMyAdmin, то всё работает отлично:
 
