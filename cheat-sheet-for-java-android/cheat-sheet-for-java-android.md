@@ -65,7 +65,7 @@ lang: ru
 - [Установка IntelliJ IDEA в Windows](https://github.com/Harrix/harrix.dev-articles-2019/blob/main/install-intellij-idea/install-intellij-idea.md) | [↗️](https://harrix.dev/ru/articles/2019/install-intellij-idea/) — для написания консольных приложений сейчас чаще всего используется IntelliJ IDEA.
 - [Сложение двух чисел в IntelliJ IDEA на Java (консольное приложение)](https://github.com/Harrix/harrix.dev-articles-2019/blob/main/add-2-num-intellij-idea/add-2-num-intellij-idea.md) | [↗️](https://harrix.dev/ru/articles/2019/add-2-num-intellij-idea/) — первое приложение на IntelliJ IDEA.
 - [Установка Android Studio в Windows](https://github.com/Harrix/harrix.dev-articles-2019/blob/main/install-android-studio/install-android-studio.md) | [↗️](https://harrix.dev/ru/articles/2019/install-android-studio/) — для написания приложений под Android на Java потребуется Android Studio от Google.
-- [Сложение двух чисел в Android Studio на Java (Android приложение)](https://github.com/Harrix/harrix.dev-articles-2019/blob/main/install-intellij-idea/install-intellij-idea.md) | [↗️](https://harrix.dev/ru/articles/2019/install-intellij-idea/) — первое приложение под Android.
+- [Установка IntelliJ IDEA в Windows](https://github.com/Harrix/harrix.dev-articles-2019/blob/main/install-intellij-idea/install-intellij-idea.md) | [↗️](https://harrix.dev/ru/articles/2019/install-intellij-idea/) — первое приложение под Android.
 
 Если родной эмулятор от Android Studio не запускается или тормозит так, что работать нельзя, то можно попробовать сторонние эмуляторы, благо их много.
 
